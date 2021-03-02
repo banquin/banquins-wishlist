@@ -1,0 +1,775 @@
+title:Brendan's PVE Wishlist
+description: A PVE-focused wishlist that only looks for a match on the last 2 perks of each weapon.
+
+///////////////////////////////////////////////////////////////////////////////
+//Table of Contents
+//
+//    Season 13 (Chosen)
+//    Season 12 (Hunt)
+//    Season 11 (Arrivals)
+//    Season 10 (Worthy)
+//    Other - reprised weapons from earlier seasons
+//    Events
+//    Prophecy
+//    Trials of Osiris
+//    Iron Banner
+//    Last Wish
+//    Garden of Salvation
+//    Deep Stone Crypt
+///////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////
+//Season 13 - Season of the Chosen
+///////////////////////////////////////////////////////////////////////////////
+
+//Retold Tale
+dimwishlist:item=346136302&perks=706527188,3523296417
+dimwishlist:item=346136302&perks=706527188,2679249093
+dimwishlist:item=346136302&perks=706527188,1546637391
+dimwishlist:item=346136302&perks=1556840489,1546637391
+dimwishlist:item=346136302&perks=1556840489,2679249093
+dimwishlist:item=346136302&perks=1556840489,3523296417
+
+//Vouchsafe
+dimwishlist:item=3242168339&perks=247725512,3592538738
+dimwishlist:item=3242168339&perks=247725512,2458213969
+dimwishlist:item=3242168339&perks=247725512,2848615171
+dimwishlist:item=3242168339&perks=247725512,2848615171
+dimwishlist:item=3242168339&perks=247725512,2458213969
+dimwishlist:item=3242168339&perks=247725512,3592538738
+
+//Waking Vigil
+dimwishlist:item=334171687&perks=247725512,1015611457
+dimwishlist:item=334171687&perks=1168162263,1015611457
+
+//Sleepless
+dimwishlist:item=3740842661&perks=3300816228,2396489472
+dimwishlist:item=3740842661&perks=3300816228,1546637391
+dimwishlist:item=3740842661&perks=3977735242,2396489472
+dimwishlist:item=3740842661&perks=3977735242,1546637391
+
+//Blasphemer
+dimwishlist:item=2782847179&perks=791862061,1354429876,4082225868
+
+//Apostate
+dimwishlist:item=2164448701&perks=1168162263,3592538738
+
+//Premonition
+dimwishlist:item=208088207&perks=2779035018,3425386926
+dimwishlist:item=208088207&perks=2779035018,2726471870
+
+//Heretic
+dimwishlist:item=3067821200&perks=951095735,3927722942
+dimwishlist:item=3067821200&perks=951095735,1275731761
+
+//Cartesian Coordinate
+dimwishlist:item=2481881293&perks=2779035018,4082225868
+dimwishlist:item=2481881293&perks=2779035018,2213355989
+
+//Eternal Blazon
+dimwishlist:item=3514096004&perks=247725512,1015611457
+dimwishlist:item=3514096004&perks=247725512,4049631843
+dimwishlist:item=3514096004&perks=247725512,2726471870
+dimwishlist:item=3514096004&perks=3643424744,1015611457
+dimwishlist:item=3514096004&perks=3643424744,4049631843
+dimwishlist:item=3514096004&perks=3643424744,2726471870
+
+//Retrofuturist
+dimwishlist:item=1402766122&perks=25606670,2360754333
+dimwishlist:item=1402766122&perks=25606670,4082225868
+dimwishlist:item=1402766122&perks=2779035018,4082225868
+dimwishlist:item=1402766122&perks=2779035018,2360754333
+
+//Tarantula
+dimwishlist:item=3335343363&perks=2869569095,1015611457
+dimwishlist:item=3335343363&perks=2869569095,3592538738
+
+//The Palindrome
+dimwishlist:item=432476743&perks=1168162263,3425386926
+dimwishlist:item=432476743&perks=1168162263,4049631843
+dimwishlist:item=432476743&perks=1168162263,2726471870
+dimwishlist:item=432476743&perks=3643424744,3425386926
+dimwishlist:item=432476743&perks=3643424744,4049631843
+dimwishlist:item=432476743&perks=3643424744,2726471870
+dimwishlist:item=432476743&perks=1820235745,3425386926
+dimwishlist:item=432476743&perks=1820235745,4049631843
+dimwishlist:item=432476743&perks=1820235745,2726471870
+
+//The Palindrome (Adept)
+dimwishlist:item=1481892490&perks=1168162263,3425386926
+dimwishlist:item=1481892490&perks=1168162263,4049631843
+dimwishlist:item=1481892490&perks=1168162263,2726471870
+dimwishlist:item=1481892490&perks=3643424744,3425386926
+dimwishlist:item=1481892490&perks=3643424744,4049631843
+dimwishlist:item=1481892490&perks=3643424744,2726471870
+dimwishlist:item=1481892490&perks=1820235745,3425386926
+dimwishlist:item=1481892490&perks=1820235745,4049631843
+dimwishlist:item=1481892490&perks=1820235745,2726471870
+
+//Shadow Price
+dimwishlist:item=2633186522&perks=2779035018,4082225868
+dimwishlist:item=2633186522&perks=2779035018,4049631843
+dimwishlist:item=2633186522&perks=2779035018,2848615171
+dimwishlist:item=2633186522&perks=2779035018,2726471870
+dimwishlist:item=2633186522&perks=3643424744,4082225868
+dimwishlist:item=2633186522&perks=3643424744,4049631843
+dimwishlist:item=2633186522&perks=3643424744,2848615171
+dimwishlist:item=2633186522&perks=3643424744,2726471870
+dimwishlist:item=2633186522&perks=1354429876,4082225868
+dimwishlist:item=2633186522&perks=1354429876,4049631843
+dimwishlist:item=2633186522&perks=1354429876,2848615171
+dimwishlist:item=2633186522&perks=1354429876,2726471870
+
+//Shadow Price (Adept)
+dimwishlist:item=2147010335&perks=2779035018,4082225868
+dimwishlist:item=2147010335&perks=2779035018,4049631843
+dimwishlist:item=2147010335&perks=2779035018,2848615171
+dimwishlist:item=2147010335&perks=2779035018,2726471870
+dimwishlist:item=2147010335&perks=3643424744,4082225868
+dimwishlist:item=2147010335&perks=3643424744,4049631843
+dimwishlist:item=2147010335&perks=3643424744,2848615171
+dimwishlist:item=2147010335&perks=3643424744,2726471870
+dimwishlist:item=2147010335&perks=1354429876,4082225868
+dimwishlist:item=2147010335&perks=1354429876,4049631843
+dimwishlist:item=2147010335&perks=1354429876,2848615171
+dimwishlist:item=2147010335&perks=1354429876,2726471870
+
+//The Swarm
+dimwishlist:item=47772649&perks=1359896290,1546637391
+dimwishlist:item=47772649&perks=1359896290,4049631843
+dimwishlist:item=47772649&perks=1359896290,2848615171
+dimwishlist:item=47772649&perks=1168162263,1546637391
+dimwishlist:item=47772649&perks=1168162263,4049631843
+dimwishlist:item=47772649&perks=1168162263,2848615171
+
+//The Swarm (Adept)
+dimwishlist:item=3836861464&perks=1359896290,1546637391
+dimwishlist:item=3836861464&perks=1359896290,4049631843
+dimwishlist:item=3836861464&perks=1359896290,2848615171
+dimwishlist:item=3836861464&perks=1168162263,1546637391
+dimwishlist:item=3836861464&perks=1168162263,4049631843
+dimwishlist:item=3836861464&perks=1168162263,2848615171
+
+//Salvager's Salvo
+dimwishlist:item=2060863616
+
+//Brass Attacks
+dimwishlist:item=2121785039&perks=2779035018,3425386926
+dimwishlist:item=2121785039&perks=2779035018,4049631843
+dimwishlist:item=2121785039&perks=2779035018,3592538738
+dimwishlist:item=2121785039&perks=2779035018,4104185692
+dimwishlist:item=2121785039&perks=247725512,3425386926
+dimwishlist:item=2121785039&perks=247725512,4049631843
+dimwishlist:item=2121785039&perks=247725512,3592538738
+dimwishlist:item=2121785039&perks=247725512,4104185692
+
+//Threaded Needle
+dimwishlist:item=3075224551&perks=247725512,1546637391
+dimwishlist:item=3075224551&perks=3300816228,1546637391
+dimwishlist:item=3075224551&perks=2284787283,1546637391
+
+//Extraordinary Rendition
+dimwishlist:item=1097616550&perks=3643424744,4049631843
+dimwishlist:item=1097616550&perks=3643424744,3425386926
+dimwishlist:item=1097616550&perks=3643424744,2458213969
+dimwishlist:item=1097616550&perks=3643424744,4104185692
+dimwishlist:item=1097616550&perks=3643424744,2726471870
+dimwishlist:item=1097616550&perks=1168162263,4049631843
+dimwishlist:item=1097616550&perks=1168162263,3425386926
+dimwishlist:item=1097616550&perks=1168162263,2458213969
+dimwishlist:item=1097616550&perks=1168162263,4104185692
+dimwishlist:item=1097616550&perks=1168162263,2726471870
+dimwishlist:item=1097616550&perks=1820235745,4049631843
+dimwishlist:item=1097616550&perks=1820235745,3425386926
+dimwishlist:item=1097616550&perks=1820235745,2458213969
+dimwishlist:item=1097616550&perks=1820235745,4104185692
+dimwishlist:item=1097616550&perks=1820235745,2726471870
+
+//Far Future
+dimwishlist:item=893527433&perks=1556840489,3592538738
+dimwishlist:item=893527433&perks=1556840489,3523296417
+dimwishlist:item=893527433&perks=1556840489,47981717
+dimwishlist:item=893527433&perks=3300816228,3592538738
+dimwishlist:item=893527433&perks=3300816228,3523296417
+dimwishlist:item=893527433&perks=3300816228,47981717
+
+//Imperial Needle
+dimwishlist:item=3460122497&perks=201365942,4082225868
+dimwishlist:item=3460122497&perks=201365942,3592538738
+dimwishlist:item=3460122497&perks=201365942,2726471870
+dimwishlist:item=3460122497&perks=201365942,4104185692
+dimwishlist:item=3460122497&perks=951095735,4082225868
+dimwishlist:item=3460122497&perks=951095735,3592538738
+dimwishlist:item=3460122497&perks=951095735,2726471870
+dimwishlist:item=3460122497&perks=951095735,4104185692
+
+//Code Duello
+dimwishlist:item=2496242052&perks=3300816228,3927722942
+dimwishlist:item=2496242052&perks=3300816228,2396489472
+dimwishlist:item=2496242052&perks=3300816228,1275731761
+dimwishlist:item=2496242052&perks=951095735,3927722942
+dimwishlist:item=2496242052&perks=951095735,2396489472
+dimwishlist:item=2496242052&perks=951095735,1275731761
+
+//Bottom Dollar - (not in order) Rapid Hit, Outlaw, Subsistence, Feeding Frenzy + Rampage, Wellspring, Thresh, Multikill Clip, Demolitionist
+dimwishlist:item=1046651176&perks=247725512,3425386926
+dimwishlist:item=1046651176&perks=247725512,3592538738
+dimwishlist:item=1046651176&perks=247725512,2458213969
+dimwishlist:item=1046651176&perks=247725512,2726471870
+dimwishlist:item=1046651176&perks=247725512,3523296417
+dimwishlist:item=1046651176&perks=1168162263,3425386926
+dimwishlist:item=1046651176&perks=1168162263,3592538738
+dimwishlist:item=1046651176&perks=1168162263,2458213969
+dimwishlist:item=1046651176&perks=1168162263,2726471870
+dimwishlist:item=1046651176&perks=1168162263,3523296417
+dimwishlist:item=1046651176&perks=1820235745,3425386926
+dimwishlist:item=1046651176&perks=1820235745,3592538738
+dimwishlist:item=1046651176&perks=1820235745,2458213969
+dimwishlist:item=1046651176&perks=1820235745,2726471870
+dimwishlist:item=1046651176&perks=1820235745,3523296417
+dimwishlist:item=1046651176&perks=2779035018,3425386926
+dimwishlist:item=1046651176&perks=2779035018,3592538738
+dimwishlist:item=1046651176&perks=2779035018,2458213969
+dimwishlist:item=1046651176&perks=2779035018,2726471870
+dimwishlist:item=1046651176&perks=2779035018,3523296417
+
+//Trinary System
+dimwishlist:item=3258665412&perks=2779035018,4082225868
+dimwishlist:item=3258665412&perks=2779035018,3592538738
+dimwishlist:item=3258665412&perks=2779035018,3523296417
+dimwishlist:item=3258665412&perks=2779035018,1015611457
+dimwishlist:item=3258665412&perks=2779035018,2458213969
+dimwishlist:item=3258665412&perks=3300816228,4082225868
+dimwishlist:item=3258665412&perks=3300816228,3592538738
+dimwishlist:item=3258665412&perks=3300816228,3523296417
+
+//Frozen Orbit
+dimwishlist:item=3473290087&perks=3400784728,1546637391
+dimwishlist:item=3473290087&perks=3400784728,2213355989
+dimwishlist:item=3473290087&perks=2284787283,1546637391
+dimwishlist:item=3473290087&perks=2284787283,2213355989
+
+//The Keening
+dimwishlist:item=409551876&perks=247725512,4049631843
+dimwishlist:item=409551876&perks=247725512,2726471870
+dimwishlist:item=409551876&perks=247725512,3592538738
+dimwishlist:item=409551876&perks=247725512,2458213969
+dimwishlist:item=409551876&perks=1820235745,4049631843
+dimwishlist:item=409551876&perks=1820235745,2726471870
+dimwishlist:item=409551876&perks=1820235745,3592538738
+dimwishlist:item=409551876&perks=1820235745,2458213969
+
+//The Third Axiom
+dimwishlist:item=4156253727&perks=2779035018,3425386926
+dimwishlist:item=4156253727&perks=2779035018,4049631843
+dimwishlist:item=4156253727&perks=2779035018,2458213969
+dimwishlist:item=4156253727&perks=2779035018,2726471870
+dimwishlist:item=4156253727&perks=1820235745,3425386926
+dimwishlist:item=4156253727&perks=1820235745,4049631843
+dimwishlist:item=4156253727&perks=1820235745,2458213969
+dimwishlist:item=4156253727&perks=1820235745,2726471870
+
+//Royal Entry
+dimwishlist:item=2448907086&perks=951095735,2396489472
+dimwishlist:item=2448907086&perks=951095735,3927722942
+dimwishlist:item=2448907086&perks=951095735,2284787283
+dimwishlist:item=2448907086&perks=3300816228,2396489472
+dimwishlist:item=2448907086&perks=3300816228,3927722942
+dimwishlist:item=2448907086&perks=3300816228,2284787283
+
+
+
+///////////////////////////////////////////////////////////////////////////////
+//Season 12 - Season of the Hunt
+///////////////////////////////////////////////////////////////////////////////
+
+//Hailing Confusion
+dimwishlist:item=2870169846&perks=1168162263,3523296417
+dimwishlist:item=2870169846&perks=1168162263,3592538738
+dimwishlist:item=2870169846&perks=3436462433,3523296417
+dimwishlist:item=2870169846&perks=3436462433,3592538738
+
+//High Albedo
+dimwishlist:item=1197486957&perks=2010801679,3592538738
+dimwishlist:item=1197486957&perks=2010801679,3523296417
+dimwishlist:item=1197486957&perks=4071163871,3592538738
+dimwishlist:item=1197486957&perks=4071163871,3523296417
+
+//Arctic Haze
+dimwishlist:item=20935540&perks=1168162263,2726471870
+dimwishlist:item=20935540&perks=1168162263,2848615171
+dimwishlist:item=20935540&perks=1820235745,2726471870
+dimwishlist:item=20935540&perks=1820235745,2848615171
+
+//Bonechiller
+dimwishlist:item=4037745684&perks=1556840489,3523296417
+dimwishlist:item=4037745684&perks=1556840489,47981717
+dimwishlist:item=4037745684&perks=3300816228,3523296417
+dimwishlist:item=4037745684&perks=3300816228,47981717
+
+//Subzero Salvo
+dimwishlist:item=42351395&perks=2010801679,2396489472
+dimwishlist:item=42351395&perks=2010801679,1275731761
+
+//Biting Winds
+dimwishlist:item=1621657423&perks=247725512,4082225868
+dimwishlist:item=1621657423&perks=247725512,3365897133
+
+//Coriolis Force
+dimwishlist:item=3512349612&perks=2779035018,2726471870
+dimwishlist:item=3512349612&perks=2779035018,4049631843
+
+//Thermal Erosion
+dimwishlist:item=1766088024&perks=2387244414,2848615171
+dimwishlist:item=1766088024&perks=2387244414,1359896290
+dimwishlist:item=1766088024&perks=2387244414,3592538738
+
+//Friction Fire
+dimwishlist:item=1513993763&perks=4071163871,3425386926
+dimwishlist:item=1513993763&perks=4071163871,3592538738
+dimwishlist:item=1513993763&perks=1820235745,3592538738
+dimwishlist:item=1513993763&perks=1820235745,3425386926
+dimwishlist:item=1513993763&perks=2387244414,3425386926
+dimwishlist:item=1513993763&perks=2387244414,3592538738
+
+//Deafening Whisper
+dimwishlist:item=981718087&perks=2010801679,3425386926
+dimwishlist:item=981718087&perks=2010801679,3592538738
+
+//Corsair's Wrath
+dimwishlist:item=2714022207&perks=1168162263,2213355989
+
+//Adored
+dimwishlist:item=4184808992
+
+//Stars in Shadow
+dimwishlist:item=2050789284&perks=2779035018,1015611457
+dimwishlist:item=2050789284&perks=2779035018,2726471870
+dimwishlist:item=2050789284&perks=2779035018,3523296417
+dimwishlist:item=2050789284&perks=2779035018,2848615171
+dimwishlist:item=2050789284&perks=1168162263,1015611457
+dimwishlist:item=2050789284&perks=1168162263,2726471870
+dimwishlist:item=2050789284&perks=1168162263,3523296417
+dimwishlist:item=2050789284&perks=1168162263,2848615171
+
+//Xenoclast IV
+dimwishlist:item=2891672170&perks=3300816228,2679249093
+dimwishlist:item=2891672170&perks=3300816228,3425386926
+dimwishlist:item=2891672170&perks=3300816228,2360754333
+dimwishlist:item=2891672170&perks=3300816228,1546637391
+dimwishlist:item=2891672170&perks=3300816228,4082225868
+dimwishlist:item=2891672170&perks=1556840489,2679249093
+dimwishlist:item=2891672170&perks=1556840489,3425386926
+dimwishlist:item=2891672170&perks=1556840489,2360754333
+dimwishlist:item=2891672170&perks=1556840489,1546637391
+dimwishlist:item=2891672170&perks=1556840489,4082225868
+
+//Crowd Pleaser
+dimwishlist:item=3565520715&perks=2284787283,2396489472
+dimwishlist:item=3565520715&perks=2869569095,2396489472
+
+//Royal Chase
+dimwishlist:item=2776503072&perks=3300816228,2458213969
+dimwishlist:item=2776503072&perks=3300816228,2848615171
+dimwishlist:item=2776503072&perks=3300816228,2726471870
+
+//Blast Battue
+dimwishlist:item=2453357042&perks=2284787283,2396489472
+dimwishlist:item=2453357042&perks=2284787283,3300816228
+
+
+
+///////////////////////////////////////////////////////////////////////////////
+//Season 11 - Season of Arrivals
+///////////////////////////////////////////////////////////////////////////////
+
+//False Promises
+dimwishlist:item=3143732432&perks=2779035018,4082225868
+dimwishlist:item=3143732432&perks=2779035018,3425386926
+dimwishlist:item=3143732432&perks=3643424744,4082225868
+dimwishlist:item=3143732432&perks=3643424744,3425386926
+dimwishlist:item=3143732432&perks=1820235745,4082225868
+dimwishlist:item=3143732432&perks=1820235745,3425386926
+
+//Whispering Slab
+dimwishlist:item=211938782&perks=201365942,4082225868
+dimwishlist:item=211938782&perks=201365942,3523296417
+dimwishlist:item=211938782&perks=201365942,47981717
+
+//First In, Last Out
+dimwishlist:item=3616586446&perks=3300816228,3523296417
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+
+//Hollow Words
+dimwishlist:item=607191995&perks=2779035018,3708227201
+dimwishlist:item=607191995&perks=1556840489,3708227201
+
+//IKELOS_SMG_V1.0.2
+dimwishlist:item=2222560548&perks=4071163871,3523296417
+dimwishlist:item=2222560548&perks=1820235745,3523296417
+dimwishlist:item=2222560548&perks=1820235745,3708227201
+dimwishlist:item=2222560548&perks=4071163871,3708227201
+
+//IKELOS_SR_v1.0.2
+dimwishlist:item=1253087083&perks=1354429876,2213355989
+dimwishlist:item=1253087083&perks=2779035018,2458213969
+
+//Berenger's Memory
+dimwishlist:item=407621213&perks=2284787283,3300816228
+dimwishlist:item=407621213&perks=2869569095,3300816228
+
+//Temptation's Hook
+dimwishlist:item=35794111&perks=1749209109,3913600130
+dimwishlist:item=35794111&perks=1749209109,1546637391
+dimwishlist:item=35794111&perks=2590710093,3913600130
+
+//Nature of the Beast
+dimwishlist:item=1835747805&perks=1820235745,3523296417
+
+//Truthteller
+dimwishlist:item=1946491241&perks=2779035018,4082225868
+dimwishlist:item=1946491241&perks=2779035018,2458213969
+dimwishlist:item=1946491241&perks=2779035018,3523296417
+dimwishlist:item=1946491241&perks=3300816228,4082225868
+dimwishlist:item=1946491241&perks=3300816228,2458213969
+dimwishlist:item=1946491241&perks=3300816228,3523296417
+
+//Cold Denial
+dimwishlist:item=1216130969&perks=2779035018,4082225868
+dimwishlist:item=1216130969&perks=2779035018,2458213969
+
+//Falling Guillotine
+dimwishlist:item=614426548&perks=1749209109,3913600130
+
+
+
+///////////////////////////////////////////////////////////////////////////////
+//Season 10 - Season of the Worthy
+///////////////////////////////////////////////////////////////////////////////
+
+//Dire Promise
+dimwishlist:item=2742838701&perks=3643424744,4082225868
+
+//Enigma's Draw
+dimwishlist:item=1723380073&perks=4267945040,4082225868
+
+//Escape Velocity
+dimwishlist:item=1786797708&perks=3643424744,3708227201
+dimwishlist:item=1786797708&perks=4071163871,3708227201
+
+//True Prophecy
+dimwishlist:item=2742838700&perks=3643424744,3425386926
+dimwishlist:item=2742838700&perks=3643424744,3523296417
+
+//Distant Tumulus
+dimwishlist:item=2807687156&perks=2284787283,1771339417
+dimwishlist:item=2807687156&perks=1556840489,1771339417
+
+//Jian 7 Rifle
+dimwishlist:item=1162247618&perks=2387244414,3425386926
+dimwishlist:item=1162247618&perks=2387244414,4082225868
+
+//Timeline's Vertex
+dimwishlist:item=3055192515&perks=3300816228,3523296417
+dimwishlist:item=3055192515&perks=1556840489,3523296417
+
+//Honor's Edge
+dimwishlist:item=2857348871&perks=1749209109,3708227201
+
+//Interference VI
+dimwishlist:item=2257180473&perks=2284787283,2888557110
+dimwishlist:item=2257180473&perks=3300816228,2888557110
+dimwishlist:item=2257180473&perks=2869569095,2888557110
+
+//Seventh Seraph Carbine
+dimwishlist:item=1561006927&perks=3300816228,3425386926
+dimwishlist:item=1561006927&perks=3300816228,3425386926
+dimwishlist:item=1561006927&perks=1354429876,4082225868
+dimwishlist:item=1561006927&perks=1354429876,3425386926
+
+//Seventh Seraph Officer Revolver
+dimwishlist:item=3037520408&perks=2010801679,2213355989
+dimwishlist:item=3037520408&perks=2010801679,2779035018
+dimwishlist:item=3037520408&perks=2010801679,2458213969
+
+//Seventh Seraph CQC-12
+dimwishlist:item=1821724780&perks=3300816228,2360754333
+dimwishlist:item=1821724780&perks=3300816228,1546637391
+dimwishlist:item=1821724780&perks=1556840489,1546637391
+dimwishlist:item=1821724780&perks=1556840489,2360754333
+
+//Seventh Seraph SI-2
+dimwishlist:item=3937866388&perks=4071163871,3708227201
+dimwishlist:item=3937866388&perks=3523296417,3708227201
+dimwishlist:item=3937866388&perks=3523296417,2848615171
+
+//Seventh Seraph VY-7
+dimwishlist:item=766323545&perks=2010801679,2779035018
+
+//Seventh Seraph SAW
+dimwishlist:item=2582755344&perks=2869569095,1771339417
+dimwishlist:item=2582755344&perks=2869569095,1546637391
+dimwishlist:item=2582755344&perks=3300816228,1771339417
+dimwishlist:item=2582755344&perks=3300816228,1546637391
+dimwishlist:item=2582755344&perks=2284787283,1771339417
+dimwishlist:item=2582755344&perks=2284787283,1546637391
+
+//Felwinter's Lie
+dimwishlist:item=1179141605
+
+///////////////////////////////////////////////////////////////////////////////
+//Other
+///////////////////////////////////////////////////////////////////////////////
+
+//Main Ingredient
+
+//Lonesome
+
+//Toil and Trouble
+
+//Night Watch
+
+//Arsenic Bite-4b
+
+//Long Shadow
+
+//Outrageous Fortune
+
+//Gnawing Hunger
+
+//Last Perdition
+
+//Bad Omens
+
+//Last Dance
+
+//Steel Sybil Z-14
+
+//Wishbringer
+
+///////////////////////////////////////////////////////////////////////////////
+//Events
+///////////////////////////////////////////////////////////////////////////////
+
+//Cold Front
+
+//Glacioclasm
+
+//Avalanche
+
+//Braytech Werewolf
+
+//Horror Story
+
+///////////////////////////////////////////////////////////////////////////////
+//Prophecy
+///////////////////////////////////////////////////////////////////////////////
+
+//Death Adder
+
+//IKELOS_HC_V1.0.2
+
+//IKELOS_SG_v1.0.2
+
+//Widow's Bite
+
+//Hoosegow
+
+//Negative Space
+
+///////////////////////////////////////////////////////////////////////////////
+//Trials of Osiris
+///////////////////////////////////////////////////////////////////////////////
+
+//The Messenger
+dimwishlist:item=3658188704&perks=247725512,4049631843
+dimwishlist:item=3658188704&perks=247725512,3047969693
+dimwishlist:item=3658188704&perks=247725512,1015611457
+dimwishlist:item=3658188704&perks=1168162263,4049631843
+dimwishlist:item=3658188704&perks=1168162263,3047969693
+dimwishlist:item=3658188704&perks=1168162263,1015611457
+
+//The Messenger (Adept)
+dimwishlist:item=1173780905&perks=247725512,4049631843
+dimwishlist:item=1173780905&perks=247725512,3047969693
+dimwishlist:item=1173780905&perks=247725512,1015611457
+dimwishlist:item=1173780905&perks=1168162263,4049631843
+dimwishlist:item=1173780905&perks=1168162263,3047969693
+dimwishlist:item=1173780905&perks=1168162263,1015611457
+
+//Igneous Hammer
+dimwishlist:item=2351180975&perks=247725512,3425386926
+dimwishlist:item=2351180975&perks=247725512,4049631843
+dimwishlist:item=2351180975&perks=1168162263,3425386926
+dimwishlist:item=2351180975&perks=1168162263,4049631843
+dimwishlist:item=2351180975&perks=1820235745,3425386926
+dimwishlist:item=2351180975&perks=1820235745,4049631843
+
+//Igneous Hammer (Adept)
+dimwishlist:item=2527666306&perks=247725512,3425386926
+dimwishlist:item=2527666306&perks=247725512,4049631843
+dimwishlist:item=2527666306&perks=1168162263,3425386926
+dimwishlist:item=2527666306&perks=1168162263,4049631843
+dimwishlist:item=2527666306&perks=1820235745,3425386926
+dimwishlist:item=2527666306&perks=1820235745,4049631843
+
+//Sola's Scar
+dimwishlist:item=1313528549&perks=1749209109,2396489472
+dimwishlist:item=1313528549&perks=1749209109,1546637391
+dimwishlist:item=1313528549&perks=2590710093,2396489472
+dimwishlist:item=1313528549&perks=2590710093,1546637391
+
+//Sola's Scar (Adept)
+dimwishlist:item=3847137620&perks=1749209109,2396489472
+dimwishlist:item=3847137620&perks=1749209109,1546637391
+dimwishlist:item=3847137620&perks=2590710093,2396489472
+dimwishlist:item=3847137620&perks=2590710093,1546637391
+
+//Astral Horizon
+dimwishlist:item=1697682876&perks=3300816228,2360754333
+
+//Astral Horizon (Adept)
+dimwishlist:item=532746994&perks=3300816228,2360754333
+
+//Eye of Sol
+dimwishlist:item=3164743584&perks=2869569095,1546637391
+
+//Eye of Sol (Adept)
+dimwishlist:item=3637570176&perks=2869569095,1546637391
+
+//The Scholar
+//There really aren't any good PVE-specific rolls on this weapon.
+
+//Exile's Curse
+dimwishlist:item=679281855&perks=706527188,1546637391
+
+//Exile's Curse (Adept)
+dimwishlist:item=276080079&perks=706527188,1546637391
+
+//The Summoner
+dimwishlist:item=1907698332&perks=2387244414,3425386926
+dimwishlist:item=1907698332&perks=2387244414,2848615171
+dimwishlist:item=1907698332&perks=3643424744,3425386926
+dimwishlist:item=1907698332&perks=3643424744,2848615171
+
+//The Summoner (Adept)
+dimwishlist:item=3514144928&perks=2387244414,3425386926
+dimwishlist:item=3514144928&perks=2387244414,2848615171
+dimwishlist:item=3514144928&perks=3643424744,3425386926
+dimwishlist:item=3514144928&perks=3643424744,2848615171
+
+//Tomorrow's Answer
+dimwishlist:item=958384347&perks=951095735,2396489472
+dimwishlist:item=958384347&perks=951095735,3927722942
+dimwishlist:item=958384347&perks=951095735,1275731761
+dimwishlist:item=958384347&perks=3300816228,2396489472
+dimwishlist:item=958384347&perks=3300816228,3927722942
+dimwishlist:item=958384347&perks=3300816228,1275731761
+dimwishlist:item=958384347&perks=3977735242,2396489472
+dimwishlist:item=958384347&perks=3977735242,3927722942
+dimwishlist:item=958384347&perks=3977735242,1275731761
+
+//Tomorrow's Answer (Adept)
+dimwishlist:item=1366917989&perks=951095735,2396489472
+dimwishlist:item=1366917989&perks=951095735,3927722942
+dimwishlist:item=1366917989&perks=951095735,1275731761
+dimwishlist:item=1366917989&perks=3300816228,2396489472
+dimwishlist:item=1366917989&perks=3300816228,3927722942
+dimwishlist:item=1366917989&perks=3300816228,1275731761
+dimwishlist:item=1366917989&perks=3977735242,2396489472
+dimwishlist:item=1366917989&perks=3977735242,3927722942
+dimwishlist:item=1366917989&perks=3977735242,1275731761
+
+///////////////////////////////////////////////////////////////////////////////
+//Iron Banner
+///////////////////////////////////////////////////////////////////////////////
+
+//Swarm of the Raven
+
+//Bite of the Fox
+
+//Orewing's Maul
+
+//Crimil's Dagger
+
+//Shining Sphere
+
+//Talons of the Eagle
+
+//Point of the Stag
+
+//The Guiding Sight
+
+//The Steady Hand
+
+//The Forward Path
+
+//The Fool's Remedy
+
+//Multimach CCX
+dimwishlist:item=3717177717&perks=1820235745,4049631843
+dimwishlist:item=3717177717&perks=1820235745,1015611457
+dimwishlist:item=3717177717&perks=4071163871,4049631843
+dimwishlist:item=3717177717&perks=4071163871,1015611457
+
+//The Time Worn Spire
+dimwishlist:item=3593598010&perks=2779035018,3425386926
+dimwishlist:item=3593598010&perks=2779035018,4049631843
+dimwishlist:item=3593598010&perks=2779035018,11551321
+dimwishlist:item=3593598010&perks=1820235745,3425386926
+dimwishlist:item=3593598010&perks=1820235745,4049631843
+dimwishlist:item=3593598010&perks=1820235745,11551321
+
+///////////////////////////////////////////////////////////////////////////////
+//Last Wish
+///////////////////////////////////////////////////////////////////////////////
+
+//The Supremacy
+
+//Chattering Bone
+
+//Transfiguration
+
+//Age-Old Bond
+
+//Nation of Beasts
+
+//Tyranny of Heaven
+
+//Apex Predator
+
+//Techeun Force
+
+///////////////////////////////////////////////////////////////////////////////
+//Garden of Salvation
+///////////////////////////////////////////////////////////////////////////////
+
+//Omniscient Eye
+
+//Zealot's Reward
+
+//Accrued Redemption
+
+//Reckless Oracle
+
+//Ancient Gospel
+
+//Prophet of Doom
+
+//Sacred Provenance
+
+///////////////////////////////////////////////////////////////////////////////
+//Deep Stone Crypt
+///////////////////////////////////////////////////////////////////////////////
+
+//Heritage
+
+//Succession
+
+//Posterity
+
+//Trustee
+
+//Bequest
+
+//Commemoration
