@@ -522,30 +522,70 @@ dimwishlist:item=1179141605
 ///////////////////////////////////////////////////////////////////////////////
 
 //Main Ingredient
+dimwishlist:item=253196586&perks=3300816228,3425386926
+dimwishlist:item=253196586&perks=3300816228,1600092898
 
 //Lonesome
+dimwishlist:item=2199171672&perks=247725512,4082225868
+dimwishlist:item=2199171672&perks=247725512,3523296417
+dimwishlist:item=2199171672&perks=247725512,1015611457
+dimwishlist:item=2199171672&perks=247725512,2458213969
 
 //Toil and Trouble
+dimwishlist:item=2957367743&perks=2117683199,3425386926
+dimwishlist:item=2957367743&perks=2117683199,3300816228
 
 //Night Watch
+dimwishlist:item=3504336176&perks=247725512,3425386926
+dimwishlist:item=3504336176&perks=247725512,3523296417
+dimwishlist:item=3504336176&perks=247725512,2458213969
+dimwishlist:item=3504336176&perks=1168162263,3425386926
+dimwishlist:item=3504336176&perks=1168162263,3523296417
+dimwishlist:item=3504336176&perks=1168162263,2458213969
+dimwishlist:item=3504336176&perks=1820235745,3425386926
+dimwishlist:item=3504336176&perks=1820235745,3523296417
+dimwishlist:item=3504336176&perks=1820235745,2458213969
 
 //Arsenic Bite-4b
+dimwishlist:item=720351795&perks=3425386926,201365942
+dimwishlist:item=720351795&perks=3425386926,3365897133
 
 //Long Shadow
+dimwishlist:item=3745990145&perks=247725512,3425386926
 
 //Outrageous Fortune
+dimwishlist:item=4146702548&perks=3301904089,2869569095,3425386926
+dimwishlist:item=4146702548&perks=3301904089,3300816228,3425386926
 
 //Gnawing Hunger
+dimwishlist:item=821154603&perks=2387244414,3425386926
+dimwishlist:item=821154603&perks=2387244414,1015611457
+dimwishlist:item=821154603&perks=2387244414,2458213969
+dimwishlist:item=821154603&perks=2387244414,3523296417
+dimwishlist:item=821154603&perks=2387244414,4082225868
+dimwishlist:item=821154603&perks=1820235745,3425386926
+dimwishlist:item=821154603&perks=1820235745,1015611457
+dimwishlist:item=821154603&perks=1820235745,2458213969
+dimwishlist:item=821154603&perks=1820235745,3523296417
+dimwishlist:item=821154603&perks=1820235745,4082225868
 
 //Last Perdition
+dimwishlist:item=188882152&perks=1168162263,3425386926
 
 //Bad Omens
+dimwishlist:item=991314988&perks=3977735242,1275731761
+dimwishlist:item=991314988&perks=3300816228,1275731761
 
 //Last Dance
+dimwishlist:item=2009277538&perks=4267945040,1015611457
+dimwishlist:item=2009277538&perks=1168162263,1015611457
 
 //Steel Sybil Z-14
+dimwishlist:item=4230993599&perks=1749209109,3913600130
 
 //Wishbringer
+dimwishlist:item=3356526253&perks=2869569095,3300816228
+dimwishlist:item=3356526253&perks=2869569095,3425386926
 
 ///////////////////////////////////////////////////////////////////////////////
 //Events
@@ -556,26 +596,47 @@ dimwishlist:item=1179141605
 //Glacioclasm
 
 //Avalanche
+dimwishlist:item=66875353&perks=3300816228,4082225868
 
 //Braytech Werewolf
+dimwishlist:item=528834068&perks=2387244414,2458213969
 
 //Horror Story
+dimwishlist:item=3829285960&perks=2387244414,3425386926
 
 ///////////////////////////////////////////////////////////////////////////////
 //Prophecy
 ///////////////////////////////////////////////////////////////////////////////
 
 //Death Adder
+dimwishlist:item=2742490609&perks=2779035018,2848615171
+dimwishlist:item=2742490609&perks=1820235745,2848615171
 
 //IKELOS_HC_V1.0.2
+dimwishlist:item=1200824700&perks=1820235745,3425386926
 
 //IKELOS_SG_v1.0.2
+dimwishlist:item=1096206669&perks=2779035018,2360754333
+dimwishlist:item=1096206669&perks=2779035018,1546637391
+dimwishlist:item=1096206669&perks=2779035018,3425386926
+dimwishlist:item=1096206669&perks=1556840489,2360754333
+dimwishlist:item=1096206669&perks=1556840489,1546637391
+dimwishlist:item=1096206669&perks=1556840489,3425386926
 
 //Widow's Bite
+dimwishlist:item=1271343896&perks=2779035018,3523296417
 
 //Hoosegow
+dimwishlist:item=3669616453&perks=2869569095,1275731761
+dimwishlist:item=3669616453&perks=2869569095,1015611457
+dimwishlist:item=3669616453&perks=3300816228,1275731761
+dimwishlist:item=3669616453&perks=3300816228,1015611457
+dimwishlist:item=3669616453&perks=3977735242,1275731761
+dimwishlist:item=3669616453&perks=3977735242,1015611457
 
 //Negative Space
+dimwishlist:item=3629968765&perks=1749209109,3913600130
+dimwishlist:item=3629968765&perks=1749209109,3708227201
 
 ///////////////////////////////////////////////////////////////////////////////
 //Trials of Osiris
@@ -763,13 +824,47 @@ dimwishlist:item=3593598010&perks=1820235745,11551321
 ///////////////////////////////////////////////////////////////////////////////
 
 //Heritage
+dimwishlist:item=4248569242&perks=1523832109,469285294
+dimwishlist:item=4248569242&perks=1523832109,2726471870
+dimwishlist:item=4248569242&perks=3300816228,2726471870
+dimwishlist:item=4248569242&perks=3300816228,469285294
 
 //Succession
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,469285294
 
 //Posterity
+dimwishlist:item=3281285075&perks=247725512,3523296417
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=247725512,3201496230
+dimwishlist:item=3281285075&perks=247725512,4049631843
+dimwishlist:item=3281285075&perks=2779035018,3523296417
+dimwishlist:item=3281285075&perks=2779035018,3425386926
+dimwishlist:item=3281285075&perks=2779035018,3201496230
+dimwishlist:item=3281285075&perks=2779035018,4049631843
+dimwishlist:item=3281285075&perks=1354429876,3523296417
+dimwishlist:item=3281285075&perks=1354429876,3425386926
+dimwishlist:item=3281285075&perks=1354429876,3201496230
+dimwishlist:item=3281285075&perks=1354429876,4049631843
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+dimwishlist:item=3281285075&perks=1523832109,3201496230
+dimwishlist:item=3281285075&perks=1523832109,4049631843
 
 //Trustee
+dimwishlist:item=1392919471&perks=1523832109,3201496230
+dimwishlist:item=1392919471&perks=1523832109,3592538738
+dimwishlist:item=1392919471&perks=1523832109,2213355989
+dimwishlist:item=1392919471&perks=1168162263,3201496230
+dimwishlist:item=1392919471&perks=1168162263,3592538738
+dimwishlist:item=1392919471&perks=1168162263,2213355989
 
 //Bequest
+dimwishlist:item=3366545721&perks=1749209109,1685431615
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+dimwishlist:item=3366545721&perks=2726471870,3708227201
+dimwishlist:item=3366545721&perks=2726471870,1685431615
 
 //Commemoration
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=2779035018,3425386926
