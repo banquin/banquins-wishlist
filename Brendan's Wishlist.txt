@@ -206,12 +206,12 @@ dimwishlist:item=3460122497&perks=951095735,2726471870
 dimwishlist:item=3460122497&perks=951095735,4104185692
 
 //Code Duello
+//  Auto-Loading Holster, Impulse Amplifier
+//  Chain Reaction, Lasting Impression
 dimwishlist:item=2496242052&perks=3300816228,3927722942
 dimwishlist:item=2496242052&perks=3300816228,2396489472
-dimwishlist:item=2496242052&perks=3300816228,1275731761
 dimwishlist:item=2496242052&perks=951095735,3927722942
 dimwishlist:item=2496242052&perks=951095735,2396489472
-dimwishlist:item=2496242052&perks=951095735,1275731761
 
 //Bottom Dollar
 //  Rapid Hit, Outlaw, Subsistence, Feeding Frenzy
@@ -268,6 +268,8 @@ dimwishlist:item=409551876&perks=1820235745,3592538738
 dimwishlist:item=409551876&perks=1820235745,2458213969
 
 //The Third Axiom
+//  Feeding Frenzy, Subsistence
+//  Rampage, Multikill Clip, One for All, Thresh
 dimwishlist:item=4156253727&perks=2779035018,3425386926
 dimwishlist:item=4156253727&perks=2779035018,4049631843
 dimwishlist:item=4156253727&perks=2779035018,2458213969
@@ -278,6 +280,8 @@ dimwishlist:item=4156253727&perks=1820235745,2458213969
 dimwishlist:item=4156253727&perks=1820235745,2726471870
 
 //Royal Entry
+//  Auto-Loading Holster, Impulse Amplifier
+//  Chain Reaction, Lasting Impression, Clown Cartridge
 dimwishlist:item=2448907086&perks=951095735,2396489472
 dimwishlist:item=2448907086&perks=951095735,3927722942
 dimwishlist:item=2448907086&perks=951095735,2284787283
@@ -784,22 +788,49 @@ dimwishlist:item=3169616514&perks=247725512,2869569095
 //  Quickdraw
 //  Auto-Loading Holster, Demolitionist
 dimwishlist:item=2108920981&perks=409831596,706527188,3300816228
+dimwishlist:item=2108920981&perks=409831596,706527188,3523296417
 dimwishlist:item=2108920981&perks=706527188,3300816228
 dimwishlist:item=2108920981&perks=706527188,3523296417
 
 //Crimil's Dagger
-//  Outlaw
+//  Outlaw, Snapshot Sights (PVP), Rangefinder (PVP)
 //  Kill Clip, Opening Shot, Explosive Payload
+dimwishlist:item=4292849692&perks=1168162263,1015611457
+dimwishlist:item=4292849692&perks=1168162263,47981717
+dimwishlist:item=4292849692&perks=1168162263,3038247973
+dimwishlist:item=4292849692&perks=957782887,1015611457#notes:PVP
+dimwishlist:item=4292849692&perks=957782887,47981717#notes:PVP
+dimwishlist:item=4292849692&perks=2846385770,47981717#notes:PVP
+dimwishlist:item=4292849692&perks=2846385770,1015611457#notes:PVP
 
 //Shining Sphere
+//  Field Prep
+//  Tracking Module
+dimwishlist:item=136525518&perks=2869569095,3977735242#notes:There are much better rolls available on other RLs.
 
 //Talons of the Eagle
+//  Outlaw
+//  Rampage, Explosive Payload
+dimwishlist:item=1982711279&perks=1168162263,3425386926
+dimwishlist:item=1982711279&perks=1168162263,3038247973
 
 //Point of the Stag
+dimwishlist:item=3434944005
 
 //The Guiding Sight
+//  Rapid Hit, Quickdraw (PVP)
+//  Iron Grip (PVP), One For All
+dimwishlist:item=1641430382&perks=247725512,4049631843
+dimwishlist:item=1641430382&perks=247725512,11551321#notes:PVP
+dimwishlist:item=1641430382&perks=706527188,11551321#notes:PVP
 
 //The Steady Hand
+//  Outlaw, Quickdraw (PVP)
+//  Swashbuckler, Wellspring, Snapshot Sights (PVP)
+dimwishlist:item=2220884262&perks=1168162263,4082225868
+dimwishlist:item=2220884262&perks=1168162263,3592538738
+dimwishlist:item=2220884262&perks=1168162263,957782887#notes:PVP
+dimwishlist:item=2220884262&perks=706527188,957782887#notes:PVP
 
 //The Forward Path
 //  Feeding Frenzy, Dynamic Sway Reduction (PVP)
@@ -811,10 +842,16 @@ dimwishlist:item=1690783811&perks=2779035018,1890422124#notes:PVP
 dimwishlist:item=1690783811&perks=1359896290,1890422124#notes:PVP
 
 //The Fool's Remedy
-//  Feeding Frenzy, Subsistence, Pulse Monitor (PVP)
-//  Kill Clip,
+//  Feeding Frenzy, Subsistence
+//  Kill Clip, Quickdraw (PVP), Rangefinder (PVP)
+dimwishlist:item=65611680&perks=2779035018,1015611457
+dimwishlist:item=65611680&perks=1820235745,1015611457
+dimwishlist:item=65611680&perks=2779035018,706527188#notes:PVP
+dimwishlist:item=65611680&perks=2779035018,2846385770#notes:PVP
 
 //Multimach CCX
+//  Subsistence, Threat Detector
+//  Kill Clip, One For All
 dimwishlist:item=3717177717&perks=1820235745,4049631843
 dimwishlist:item=3717177717&perks=1820235745,1015611457
 dimwishlist:item=3717177717&perks=4071163871,4049631843
