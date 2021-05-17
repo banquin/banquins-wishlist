@@ -1,14 +1,15 @@
 title:Brendan's Wishlist.
-description: A PVE-focused wishlist that only looks for a match on the last 2 perks of each weapon.
+description: A PVE-focused wishlist that only looks for a match on the last 2 perks of each weapon. The few PVP-focused rolls in the list have "PVP" in wishlistnotes.
 
 /////////////////////////////////////////////////////////////////////
 //Table of Contents
 //
+//    Season 14 (Splicer)
 //    Season 13 (Chosen)
 //    Season 12 (Hunt)
 //    Season 11 (Arrivals)
 //    Season 10 (Worthy)
-//    Other
+//    Seasons 1-9
 //    Events
 //    Prophecy
 //    Crucible
@@ -18,7 +19,203 @@ description: A PVE-focused wishlist that only looks for a match on the last 2 pe
 //      Last Wish
 //      Garden of Salvation
 //      Deep Stone Crypt
+//      Vault of Glass
 /////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////////
+//Season 14 - Season of the Splicer
+/////////////////////////////////////////////////////////////////////
+
+//Null Composure
+dimwishlist:item=1644680957
+
+//
+//NIGHTFALL WEAPONS
+//
+
+//Hung Jury SR4
+//  Subsistence, Rapid Hit, Heating Up
+//  Explosive Payload, Firefly, Wellspring
+dimwishlist:item=4281371574&perks=1820235745,3038247973
+dimwishlist:item=4281371574&perks=1820235745,3824105627
+dimwishlist:item=4281371574&perks=1820235745,3592538738
+dimwishlist:item=4281371574&perks=247725512,3038247973
+dimwishlist:item=4281371574&perks=247725512,3824105627
+dimwishlist:item=4281371574&perks=247725512,3592538738
+dimwishlist:item=4281371574&perks=1570042021,3038247973
+dimwishlist:item=4281371574&perks=1570042021,3824105627
+dimwishlist:item=4281371574&perks=1570042021,3592538738
+
+//Hung Jury SR4 (Adept)
+//  Subsistence, Rapid Hit, Heating Up
+//  Explosive Payload, Firefly, Wellspring
+dimwishlist:item=681067419&perks=1820235745,3038247973
+dimwishlist:item=681067419&perks=1820235745,3824105627
+dimwishlist:item=681067419&perks=1820235745,3592538738
+dimwishlist:item=681067419&perks=247725512,3038247973
+dimwishlist:item=681067419&perks=247725512,3824105627
+dimwishlist:item=681067419&perks=247725512,3592538738
+dimwishlist:item=681067419&perks=1570042021,3038247973
+dimwishlist:item=681067419&perks=1570042021,3824105627
+dimwishlist:item=681067419&perks=1570042021,3592538738
+
+//PLUG ONE.1
+//  Feeding Frenzy, Bottomless Grief
+//  Reservoir Burst
+dimwishlist:item=1289000550&perks=2779035018,1427256713
+dimwishlist:item=1289000550&perks=4252909580,1427256713
+
+//PLUG ONE.1 (Adept)
+//  Feeding Frenzy, Bottomless Grief
+//  Reservoir Burst
+dimwishlist:item=534775659&perks=2779035018,1427256713
+dimwishlist:item=534775659&perks=4252909580,1427256713
+
+//Uzume RR4
+//  Triple Tap, Lead from Gold, Clown Cartridge
+//  Explosive Payload, Vorpal Weapon
+dimwishlist:item=2065081837&perks=3400784728,3038247973
+dimwishlist:item=2065081837&perks=3400784728,1546637391
+dimwishlist:item=2065081837&perks=1556840489,3038247973
+dimwishlist:item=2065081837&perks=1556840489,1546637391
+dimwishlist:item=2065081837&perks=2284787283,3038247973
+dimwishlist:item=2065081837&perks=2284787283,1546637391
+
+//Uzume RR4 (Adept)
+//  Triple Tap, Lead from Gold, Clown Cartridge
+//  Explosive Payload, Vorpal Weapon
+dimwishlist:item=852228780&perks=3400784728,3038247973
+dimwishlist:item=852228780&perks=3400784728,1546637391
+dimwishlist:item=852228780&perks=1556840489,3038247973
+dimwishlist:item=852228780&perks=1556840489,1546637391
+dimwishlist:item=852228780&perks=2284787283,3038247973
+dimwishlist:item=852228780&perks=2284787283,1546637391
+
+//
+//CLASS-SPECIFIC SWORDS
+//
+
+//Crown-Splitter
+//  Relentless Strikes, Tireless Blade
+//  Vorpal Weapon, Whirlwind Blade
+dimwishlist:item=2782325302&perks=1749209109,1546637391#wishlistnotes:Edges in order of preference: Jagged, Tempered, Honed
+dimwishlist:item=2782325302&perks=2590710093,1546637391#wishlistnotes:Edges in order of preference: Jagged, Tempered, Honed
+dimwishlist:item=2782325302&perks=1749209109,3913600130#wishlistnotes:Edges in order of preference: Jagged, Tempered, Honed
+dimwishlist:item=2782325302&perks=1749209109,1546637391#wishlistnotes:Edges in order of preference: Jagged, Tempered, Honed
+
+//Quickfang
+//  Relentless Strikes
+//  Assassin's Blade, En Garde
+dimwishlist:item=2782325300&perks=1749209109,354401740
+dimwishlist:item=2782325300&perks=1749209109,1685431615
+
+//Eternity's Edge
+//  Relentless Strikes
+//  Surrounded, Assassin's Blade
+dimwishlist:item=2782325301&perks=1749209109,3708227201
+dimwishlist:item=2782325301&perks=1749209109,354401740
+
+//
+//OVERRIDE WEAPONS
+//
+
+//Chroma Rush
+//  Heating Up, Feeding Frenzy, Subsistence
+//  Adrenaline Junkie, Rampage, Wellspring
+dimwishlist:item=1119734784&perks=1820235745,3425386926#wishlistnotes: Subsistence/Rampage is the top PVE roll.
+dimwishlist:item=1119734784&perks=1820235745,3592538738#wishlistnotes: Subsistence/Rampage is the top PVE roll.
+dimwishlist:item=1119734784&perks=1820235745,11612903#wishlistnotes: Subsistence/Rampage is the top PVE roll.
+dimwishlist:item=1119734784&perks=2779035018,3425386926#wishlistnotes: Subsistence/Rampage is the top PVE roll.
+dimwishlist:item=1119734784&perks=2779035018,3592538738#wishlistnotes: Subsistence/Rampage is the top PVE roll.
+dimwishlist:item=1119734784&perks=2779035018,11612903#wishlistnotes: Subsistence/Rampage is the top PVE roll.
+dimwishlist:item=1119734784&perks=1570042021,3425386926#wishlistnotes: Subsistence/Rampage is the top PVE roll.
+dimwishlist:item=1119734784&perks=1570042021,3592538738#wishlistnotes: Subsistence/Rampage is the top PVE roll.
+dimwishlist:item=1119734784&perks=1570042021,11612903#wishlistnotes: Subsistence/Rampage is the top PVE roll.
+
+//Gridskipper
+//  Heating Up, Moving Target (PVP)
+//  Frenzy, Multikill Clip, Snapshot (PVP)
+dimwishlist:item=1621558458&perks=1570042021,4104185692
+dimwishlist:item=1621558458&perks=1570042021,2458213969
+dimwishlist:item=1621558458&perks=1570042021,957782887#wishlistnotes:PVP
+dimwishlist:item=1621558458&perks=588594999,957782887#wishlistnotes:PVP
+
+//Farewell
+//  Full Auto
+//  Frenzy
+dimwishlist:item=541188001&perks=4267945040,4104185692
+
+//Sojourner's Tale
+//  Auto-Loading Holster, Threat Detector, Quickdraw (PVP)
+//  Frenzy, Opening Shot (PVP)
+dimwishlist:item=599895591&perks=3300816228,4104185692
+dimwishlist:item=599895591&perks=4071163871,4104185692
+dimwishlist:item=599895591&perks=706527188,47981717#wishlistnotes:PVP
+
+//Shattered Cipher
+//  Auto-Loading Holster, Field Prep
+//  Rampage, Zen Moment
+dimwishlist:item=2434225986&perks=3300816228,3425386926
+dimwishlist:item=2434225986&perks=3300816228,2387244414
+dimwishlist:item=2434225986&perks=2869569095,3425386926
+dimwishlist:item=2434225986&perks=2869569095,2387244414
+
+//Ignition Code
+//  Proximity Grenades, Blinding Grenades, Spike Grenades
+//  Ambitious Assassin, Lead from Gold
+//  Frenzy, Vorpal Weapon
+dimwishlist:item=304659313&perks=409831596,2010801679,4104185692
+dimwishlist:item=304659313&perks=409831596,2010801679,1546637391
+dimwishlist:item=304659313&perks=409831596,1556840489,4104185692
+dimwishlist:item=304659313&perks=409831596,1556840489,1546637391
+dimwishlist:item=304659313&perks=3032599245,2010801679,4104185692
+dimwishlist:item=304659313&perks=3032599245,2010801679,1546637391
+dimwishlist:item=304659313&perks=3032599245,1556840489,4104185692
+dimwishlist:item=304659313&perks=3032599245,1556840489,1546637391
+dimwishlist:item=304659313&perks=3301904089,2010801679,4104185692
+dimwishlist:item=304659313&perks=3301904089,2010801679,1546637391
+dimwishlist:item=304659313&perks=3301904089,1556840489,4104185692
+dimwishlist:item=304659313&perks=3301904089,1556840489,1546637391
+
+//
+//PLAYLIST WEAPONS
+//
+
+//Survivor's Epitaph
+//Empty Vessel
+//Borrowed Time
+
+//
+//FWC WORLD LOOT
+//
+
+//Pleiades Corrector
+//Stochastic Variable
+//Memory Interdict
+//The Number
+//The Deicide
+//The Vision
+
+//
+//IRON BANNER
+//
+
+//Occluded Finality
+//Finite Impactor
+//Riiswalker
+//Archon's Thunder
+
+//
+//TRIALS OF OSIRIS
+//
+
+//Shayura's Wrath
+//Shayura's Wrath (Adept)
+
+
+
+
+
 
 /////////////////////////////////////////////////////////////////////
 //Season 13 - Season of the Chosen
@@ -147,20 +344,30 @@ dimwishlist:item=2147010335&perks=1354429876,2848615171
 dimwishlist:item=2147010335&perks=1354429876,2726471870
 
 //The Swarm
+//  Outlaw, Dynamic Sway Reduction, Bottomless Grief
+//  One For All, Dragonfly, Vorpal Weapon
 dimwishlist:item=47772649&perks=1359896290,1546637391
 dimwishlist:item=47772649&perks=1359896290,4049631843
 dimwishlist:item=47772649&perks=1359896290,2848615171
 dimwishlist:item=47772649&perks=1168162263,1546637391
 dimwishlist:item=47772649&perks=1168162263,4049631843
 dimwishlist:item=47772649&perks=1168162263,2848615171
+dimwishlist:item=47772649&perks=4252909580,1546637391
+dimwishlist:item=47772649&perks=4252909580,4049631843
+dimwishlist:item=47772649&perks=4252909580,2848615171
 
 //The Swarm (Adept)
+//  Outlaw, Dynamic Sway Reduction, Bottomless Grief
+//  One For All, Dragonfly, Vorpal Weapon
 dimwishlist:item=3836861464&perks=1359896290,1546637391
 dimwishlist:item=3836861464&perks=1359896290,4049631843
 dimwishlist:item=3836861464&perks=1359896290,2848615171
 dimwishlist:item=3836861464&perks=1168162263,1546637391
 dimwishlist:item=3836861464&perks=1168162263,4049631843
 dimwishlist:item=3836861464&perks=1168162263,2848615171
+dimwishlist:item=3836861464&perks=4252909580,1546637391
+dimwishlist:item=3836861464&perks=4252909580,4049631843
+dimwishlist:item=3836861464&perks=4252909580,2848615171
 
 //Salvager's Salvo
 dimwishlist:item=2060863616
@@ -228,7 +435,7 @@ dimwishlist:item=2496242052&perks=951095735,3927722942
 dimwishlist:item=2496242052&perks=951095735,2396489472
 
 //Bottom Dollar
-//  Rapid Hit, Outlaw, Subsistence, Feeding Frenzy Rangefinder (PvP)
+//  Rapid Hit, Outlaw, Subsistence, Feeding Frenzy, Rangefinder (PvP)
 //  Rampage, Wellspring, Thresh, Multikill Clip, Demolitionist, Opening Shot (PvP)
 dimwishlist:item=1046651176&perks=247725512,3425386926
 dimwishlist:item=1046651176&perks=247725512,3592538738
@@ -600,7 +807,11 @@ dimwishlist:item=720351795&perks=3425386926,201365942
 dimwishlist:item=720351795&perks=3425386926,3365897133
 
 //Long Shadow
+//  Rapid Hit
+//  Rampage, Triple Tap, Explosive Payload
 dimwishlist:item=3745990145&perks=247725512,3425386926
+dimwishlist:item=3745990145&perks=247725512,3400784728
+dimwishlist:item=3745990145&perks=247725512,3038247973
 
 //Outrageous Fortune
 dimwishlist:item=4146702548&perks=3301904089,2869569095,3425386926
@@ -835,7 +1046,7 @@ dimwishlist:item=4292849692&perks=588594999,47981717#notes:PVP Sevy
 //Shining Sphere
 //  Field Prep
 //  Tracking Module
-dimwishlist:item=136525518&perks=2869569095,3977735242#notes:There are much better rolls available on other RLs.
+dimwishlist:item=136525518&perks=2869569095,3977735242#notes: You should probably just delete this. There are much better rolls available on other RLs.
 
 //Talons of the Eagle
 //  Outlaw
@@ -1016,7 +1227,6 @@ dimwishlist:item=48643186&perks=1168162263,2848615171
 dimwishlist:item=48643186&perks=1168162263,4082225868
 dimwishlist:item=48643186&perks=1168162263,2846385770#notes:PVP Sevy
 
-
 //Prophet of Doom
 //  Feeding Frenzy, Full Auto
 //  One-Two Punch, Rampage
@@ -1046,7 +1256,7 @@ dimwishlist:item=4248569242&perks=3300816228,469285294
 dimwishlist:item=4248569242&perks=3161816588,957782887#notes:PVP Sevy
 
 //Succession
-//  Recombination, Moving Target(PVP), No Distractions (PVP)
+//  Reconstruction, Moving Target(PVP), No Distractions (PVP)
 //  Vorpal Weapon, Recombination, Snapshot Sight (PVP)
 dimwishlist:item=2990047042&perks=1523832109,1546637391
 dimwishlist:item=2990047042&perks=1523832109,469285294
@@ -1094,3 +1304,20 @@ dimwishlist:item=3366545721&perks=2726471870,1685431615
 //  Rampage
 dimwishlist:item=4230965989&perks=1523832109,3425386926
 dimwishlist:item=4230965989&perks=2779035018,3425386926
+
+/////////////////////////////////////////////////////////////////////
+//Vault of Glass
+/////////////////////////////////////////////////////////////////////
+
+//Fatebringer
+//Fatebringer (Timelost)
+//Vision of Confluence
+//Vision of Confluence (Timelost)
+//Praedyth's Revenge
+//Praedyth's Revenge (Timelost)
+//Found Verdict
+//Found Verdict (Timelost)
+//Hezen Vengeance
+//Hezen Vengeance (Timelost)
+//Corrective Measure
+//Corrective Measure (Timelost)
