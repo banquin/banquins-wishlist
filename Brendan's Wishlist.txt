@@ -167,12 +167,14 @@ dimwishlist:item=599895591&perks=4071163871,4104185692
 dimwishlist:item=599895591&perks=706527188,47981717#wishlistnotes:PVP
 
 //Shattered Cipher
-//  Auto-Loading Holster, Field Prep
+//  Auto-Loading Holster, Field Prep, Heating Up
 //  Rampage, Zen Moment
 dimwishlist:item=2434225986&perks=3300816228,3425386926
 dimwishlist:item=2434225986&perks=3300816228,2387244414
 dimwishlist:item=2434225986&perks=2869569095,3425386926
 dimwishlist:item=2434225986&perks=2869569095,2387244414
+dimwishlist:item=2434225986&perks=1570042021,3425386926
+dimwishlist:item=2434225986&perks=1570042021,2387244414
 
 //Ignition Code
 //  Proximity Grenades, Blinding Grenades, Spike Grenades
