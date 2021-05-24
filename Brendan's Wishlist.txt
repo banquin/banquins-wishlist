@@ -1479,14 +1479,149 @@ dimwishlist:item=4230965989&perks=2779035018,3425386926
 /////////////////////////////////////////////////////////////////////
 
 //Fatebringer
+//  Rewind Rounds, Tunnel Vision, Explosive Payload
+//  Frenzy, Firefly, Kill Clip
+dimwishlist:item=2171478765&perks=3418782618,4104185692
+dimwishlist:item=2171478765&perks=3418782618,3824105627
+dimwishlist:item=2171478765&perks=3418782618,1015611457
+dimwishlist:item=2171478765&perks=2946784966,4104185692
+dimwishlist:item=2171478765&perks=2946784966,3824105627
+dimwishlist:item=2171478765&perks=2946784966,1015611457
+dimwishlist:item=2171478765&perks=3038247973,4104185692
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+dimwishlist:item=2171478765&perks=3038247973,1015611457
+
 //Fatebringer (Timelost)
+//  Rewind Rounds, Explosive Payload, Tunnel Vision (PVP)
+//  Frenzy, Firefly, Kill Clip
+dimwishlist:item=1216319404&perks=3418782618,4104185692
+dimwishlist:item=1216319404&perks=3418782618,3824105627
+dimwishlist:item=1216319404&perks=3418782618,1015611457
+dimwishlist:item=1216319404&perks=2946784966,4104185692
+dimwishlist:item=1216319404&perks=2946784966,3824105627
+dimwishlist:item=1216319404&perks=2946784966,1015611457
+dimwishlist:item=1216319404&perks=3038247973,4104185692
+dimwishlist:item=1216319404&perks=3038247973,3824105627
+dimwishlist:item=1216319404&perks=3038247973,1015611457
+
+
 //Vision of Confluence
+//  Wellspring, Rewind Rounds, Zen Moment, Tunnel Vision (PVP)
+//  Firefly, Kill Clip, Frenzy
+dimwishlist:item=3186018373&perks=3592538738,3824105627
+dimwishlist:item=3186018373&perks=3592538738,1015611457
+dimwishlist:item=3186018373&perks=3592538738,4104185692
+dimwishlist:item=3186018373&perks=3418782618,3824105627
+//Not including Rewind Rounds/Kill Clip since they don't synergize
+dimwishlist:item=3186018373&perks=3418782618,4104185692
+dimwishlist:item=3186018373&perks=2387244414,3824105627
+dimwishlist:item=3186018373&perks=2387244414,1015611457
+dimwishlist:item=3186018373&perks=2387244414,4104185692
+dimwishlist:item=3186018373&perks=2946784966,3824105627
+dimwishlist:item=3186018373&perks=2946784966,1015611457
+//Not including Frenzy in PVP
+
+
 //Vision of Confluence (Timelost)
+//  Wellspring, Rewind Rounds, Zen Moment, Tunnel Vision (PVP)
+//  Firefly, Kill Clip, Frenzy
+dimwishlist:item=690668916&perks=3592538738,3824105627
+dimwishlist:item=690668916&perks=3592538738,1015611457
+dimwishlist:item=690668916&perks=3592538738,4104185692
+dimwishlist:item=690668916&perks=3418782618,3824105627
+//Not including Rewind Rounds/Kill Clip since they don't synergize
+dimwishlist:item=690668916&perks=3418782618,4104185692
+dimwishlist:item=690668916&perks=2387244414,3824105627
+dimwishlist:item=690668916&perks=2387244414,1015611457
+dimwishlist:item=690668916&perks=2387244414,4104185692
+dimwishlist:item=690668916&perks=2946784966,3824105627
+dimwishlist:item=690668916&perks=2946784966,1015611457
+//Not including Frenzy in PVP
+
 //Praedyth's Revenge
+//  Rewind Rounds, Feeding Frenzy, No Distractions (PVP), Moving Target (PVP)
+//  Frenzy, Firefly, Opening Shot (PVP)
+dimwishlist:item=3653573172&perks=3418782618,4104185692
+dimwishlist:item=3653573172&perks=3418782618,3824105627
+dimwishlist:item=3653573172&perks=2779035018,4104185692
+dimwishlist:item=3653573172&perks=2779035018,3824105627
+dimwishlist:item=3653573172&perks=2866798147,47981717
+dimwishlist:item=3653573172&perks=2779035018,47981717
+
 //Praedyth's Revenge (Timelost)
+//  Rewind Rounds, Feeding Frenzy, No Distractions (PVP), Moving Target (PVP)
+//  Frenzy, Firefly, Opening Shot (PVP)
+dimwishlist:item=1987769101&perks=3418782618,4104185692
+dimwishlist:item=1987769101&perks=3418782618,3824105627
+dimwishlist:item=1987769101&perks=2779035018,4104185692
+dimwishlist:item=1987769101&perks=2779035018,3824105627
+dimwishlist:item=1987769101&perks=2866798147,47981717
+dimwishlist:item=1987769101&perks=2779035018,47981717
+
 //Found Verdict
+//  Rewind Rounds, Auto-Loading Holster
+//  Demolitionist, One-Two Punch, Frenzy, Vorpal Weapon
+dimwishlist:item=3197270240&perks=3418782618,3523296417
+dimwishlist:item=3197270240&perks=3418782618,2679249093
+dimwishlist:item=3197270240&perks=3418782618,4104185692
+dimwishlist:item=3197270240&perks=3418782618,1546637391
+dimwishlist:item=3197270240&perks=3300816228,3523296417
+dimwishlist:item=3197270240&perks=3300816228,2679249093
+dimwishlist:item=3197270240&perks=3300816228,4104185692
+dimwishlist:item=3197270240&perks=3300816228,1546637391
+
 //Found Verdict (Timelost)
+//  Rewind Rounds, Auto-Loading Holster
+//  Demolitionist, One-Two Punch, Frenzy, Vorpal Weapon
+dimwishlist:item=631439337&perks=3418782618,3523296417
+dimwishlist:item=631439337&perks=3418782618,2679249093
+dimwishlist:item=631439337&perks=3418782618,4104185692
+dimwishlist:item=631439337&perks=3418782618,1546637391
+dimwishlist:item=631439337&perks=3300816228,3523296417
+dimwishlist:item=631439337&perks=3300816228,2679249093
+dimwishlist:item=631439337&perks=3300816228,4104185692
+dimwishlist:item=631439337&perks=3300816228,1546637391
+
 //Hezen Vengeance
+//  Tracking Module, Auto-Loading Holster, Impulse Amplifier, Overflow
+//  Vorpal Weapon, Lasting Impression
+dimwishlist:item=4050645223&perks=3977735242,1546637391
+dimwishlist:item=4050645223&perks=3300816228,1546637391
+dimwishlist:item=4050645223&perks=951095735,1546637391
+dimwishlist:item=4050645223&perks=3643424744,1546637391
+dimwishlist:item=4050645223&perks=3977735242,3927722942
+dimwishlist:item=4050645223&perks=3300816228,3927722942
+dimwishlist:item=4050645223&perks=951095735,3927722942
+dimwishlist:item=4050645223&perks=3643424744,3927722942
+
 //Hezen Vengeance (Timelost)
+//  Tracking Module, Auto-Loading Holster, Impulse Amplifier, Overflow
+//  Vorpal Weapon, Lasting Impression
+dimwishlist:item=1921159786&perks=3977735242,1546637391
+dimwishlist:item=1921159786&perks=3300816228,1546637391
+dimwishlist:item=1921159786&perks=951095735,1546637391
+dimwishlist:item=1921159786&perks=3643424744,1546637391
+dimwishlist:item=1921159786&perks=3977735242,3927722942
+dimwishlist:item=1921159786&perks=3300816228,3927722942
+dimwishlist:item=1921159786&perks=951095735,3927722942
+dimwishlist:item=1921159786&perks=3643424744,3927722942
+
 //Corrective Measure
+//  Feeding Frenzy, Rewind Rounds, Subsistence
+//  One For All, Firefly
+dimwishlist:item=471518543&perks=2779035018,4049631843
+dimwishlist:item=471518543&perks=2779035018,3824105627
+dimwishlist:item=471518543&perks=3418782618,4049631843
+dimwishlist:item=471518543&perks=3418782618,3824105627
+dimwishlist:item=471518543&perks=1820235745,4049631843
+dimwishlist:item=471518543&perks=1820235745,3824105627
+
 //Corrective Measure (Timelost)
+//  Feeding Frenzy, Rewind Rounds, Subsistence
+//  One For All, Firefly
+dimwishlist:item=3796510434&perks=2779035018,4049631843
+dimwishlist:item=3796510434&perks=2779035018,3824105627
+dimwishlist:item=3796510434&perks=3418782618,4049631843
+dimwishlist:item=3796510434&perks=3418782618,3824105627
+dimwishlist:item=3796510434&perks=1820235745,4049631843
+dimwishlist:item=3796510434&perks=1820235745,3824105627
