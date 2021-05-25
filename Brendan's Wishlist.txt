@@ -302,11 +302,13 @@ dimwishlist:item=217140611&perks=25606670,1546637391
 
 //The Vision
 //  Ambitious Assassin, Full Auto
-//  One For All, Swashbuckler
+//  One For All, Swashbuckler, Kill Clip
 dimwishlist:item=2414141462&perks=2010801679,4049631843
 dimwishlist:item=2414141462&perks=2010801679,4082225868
+dimwishlist:item=2414141462&perks=2010801679,1015611457
 dimwishlist:item=2414141462&perks=4267945040,4049631843
 dimwishlist:item=2414141462&perks=4267945040,4082225868
+dimwishlist:item=2414141462&perks=4267945040,1015611457
 
 
 //
