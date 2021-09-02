@@ -6,6 +6,7 @@ description: A PVE-focused wishlist that only looks for a match on the last 2 pe
 //
 //    Instructions
 //
+//    Season 15 (Lost)
 //    Season 14 (Splicer)
 //    Season 13 (Chosen)
 //    Season 12 (Hunt)
@@ -33,6 +34,356 @@ description: A PVE-focused wishlist that only looks for a match on the last 2 pe
 //      4. In this document, find the weapon you configured a roll for.
 //      5. Write in the additional perks you configured under the weapon where perks are listed. If you added them for PVP specifically, put "(PVP)" after the perk.
 //      6. Paste your roll into the list. If it's a PVP roll, add "#notes:PVP" to that line.
+
+/////////////////////////////////////////////////////////////////////
+//Season 15 - Season of the Lost
+/////////////////////////////////////////////////////////////////////
+
+// Annual Skate ()
+dimwishlist:item=6857689&perks=1168162263,2848615171
+dimwishlist:item=6857689&perks=1168162263,3592538738
+dimwishlist:item=6857689&perks=1168162263,4082225868
+dimwishlist:item=6857689&perks=1168162263,2458213969
+dimwishlist:item=6857689&perks=1168162263,1954620775
+
+
+// Punching Out ()
+dimwishlist:item=378498222&perks=2779035018,4082225868
+dimwishlist:item=378498222&perks=2779035018,4104185692
+dimwishlist:item=378498222&perks=2779035018,3592538738
+dimwishlist:item=378498222&perks=2779035018,1015611457
+dimwishlist:item=378498222&perks=1820235745,4082225868
+dimwishlist:item=378498222&perks=1820235745,4104185692
+dimwishlist:item=378498222&perks=1820235745,3592538738
+dimwishlist:item=378498222&perks=1820235745,1015611457
+dimwishlist:item=378498222&perks=1195158366,4082225868
+dimwishlist:item=378498222&perks=1195158366,4104185692
+dimwishlist:item=378498222&perks=1195158366,3592538738
+dimwishlist:item=378498222&perks=1195158366,1015611457
+
+
+// The Last Breath ()
+dimwishlist:item=507038823&perks=3523296417,1774574192
+dimwishlist:item=507038823&perks=3523296417,4104185692
+dimwishlist:item=507038823&perks=3523296417,3673922083
+dimwishlist:item=507038823&perks=3523296417,4049631843
+dimwishlist:item=507038823&perks=1820235745,1774574192
+dimwishlist:item=507038823&perks=1820235745,4104185692
+dimwishlist:item=507038823&perks=1820235745,3673922083
+dimwishlist:item=507038823&perks=1820235745,4049631843
+
+
+// Contingency Plan ()
+dimwishlist:item=577528837&perks=1168162263,4104185692
+dimwishlist:item=577528837&perks=1168162263,1015611457
+dimwishlist:item=577528837&perks=1168162263,4049631843
+dimwishlist:item=577528837&perks=1820235745,4104185692
+dimwishlist:item=577528837&perks=1820235745,1015611457
+dimwishlist:item=577528837&perks=1820235745,4049631843
+
+
+// Scathelocke ()
+dimwishlist:item=602618796&perks=1820235745,1774574192
+dimwishlist:item=602618796&perks=1820235745,3425386926
+dimwishlist:item=602618796&perks=1570042021,1774574192
+dimwishlist:item=602618796&perks=1570042021,3425386926
+
+
+// Ascendancy ()
+dimwishlist:item=725408022&perks=
+
+
+// Peacebond (pve)
+dimwishlist:item=829330711&perks=1820235745,124408337
+dimwishlist:item=829330711&perks=1820235745,3523296417
+dimwishlist:item=829330711&perks=1820235745,4082225868
+
+
+// Peacebond (pvp)
+dimwishlist:item=829330711&perks=2450788523,957782887
+dimwishlist:item=829330711&perks=2450788523,4082225868
+dimwishlist:item=829330711&perks=2846385770,957782887
+dimwishlist:item=829330711&perks=2846385770,4082225868
+dimwishlist:item=829330711&perks=972757866,957782887
+dimwishlist:item=829330711&perks=972757866,4082225868
+
+
+// The Comedian ()
+dimwishlist:item=1028582252&perks=1820235745,2360754333
+dimwishlist:item=1028582252&perks=1820235745,1546637391
+dimwishlist:item=1028582252&perks=1556840489,2360754333
+dimwishlist:item=1028582252&perks=1556840489,1546637391
+
+
+// Forge's Pledge ()
+dimwishlist:item=1076810832&perks=3300816228,3425386926
+dimwishlist:item=1076810832&perks=1570042021,3425386926
+
+
+// Servant Leader ()
+dimwishlist:item=1107446438&perks=1168162263,4104185692
+dimwishlist:item=1107446438&perks=1168162263,3592538738
+dimwishlist:item=1107446438&perks=1168162263,1774574192
+dimwishlist:item=1107446438&perks=1168162263,3425386926
+dimwishlist:item=1107446438&perks=247725512,4104185692
+dimwishlist:item=1107446438&perks=247725512,3592538738
+dimwishlist:item=1107446438&perks=247725512,1774574192
+dimwishlist:item=1107446438&perks=247725512,3425386926
+dimwishlist:item=1107446438&perks=1820235745,4104185692
+dimwishlist:item=1107446438&perks=1820235745,3592538738
+dimwishlist:item=1107446438&perks=1820235745,1774574192
+dimwishlist:item=1107446438&perks=1820235745,3425386926
+dimwishlist:item=1107446438&perks=3700496672,4104185692
+dimwishlist:item=1107446438&perks=3700496672,3592538738
+dimwishlist:item=1107446438&perks=3700496672,1774574192
+dimwishlist:item=1107446438&perks=3700496672,3425386926
+
+
+// Chrysura Melo (pve)
+dimwishlist:item=1337707096&perks=1359896290,3592538738
+dimwishlist:item=1337707096&perks=1359896290,2848615171
+dimwishlist:item=1337707096&perks=1359896290,3523296417
+dimwishlist:item=1337707096&perks=1359896290,4104185692
+dimwishlist:item=1337707096&perks=1570042021,3592538738
+dimwishlist:item=1337707096&perks=1570042021,2848615171
+dimwishlist:item=1337707096&perks=1570042021,3523296417
+dimwishlist:item=1337707096&perks=1570042021,4104185692
+dimwishlist:item=1337707096&perks=1195158366,3592538738
+dimwishlist:item=1337707096&perks=1195158366,2848615171
+dimwishlist:item=1337707096&perks=1195158366,3523296417
+dimwishlist:item=1337707096&perks=1195158366,4104185692
+dimwishlist:item=1337707096&perks=1168162263,3592538738
+dimwishlist:item=1337707096&perks=1168162263,2848615171
+dimwishlist:item=1337707096&perks=1168162263,3523296417
+dimwishlist:item=1337707096&perks=1168162263,4104185692
+
+
+// Chrysura Melo (pve)
+dimwishlist:item=1337707096&perks=1168162263,2458213969
+
+
+// Reed's Regret ()
+dimwishlist:item=1399243961&perks=2284787283,1771339417
+dimwishlist:item=1399243961&perks=2284787283,1546637391
+dimwishlist:item=1399243961&perks=2284787283,438098033
+dimwishlist:item=1399243961&perks=3400784728,1771339417
+dimwishlist:item=1399243961&perks=3400784728,1546637391
+dimwishlist:item=1399243961&perks=3400784728,438098033
+
+
+// Judgment ()
+dimwishlist:item=1476654960&perks=1195158366,3673922083
+dimwishlist:item=1476654960&perks=1195158366,1774574192
+dimwishlist:item=1476654960&perks=1195158366,2458213969
+dimwishlist:item=1476654960&perks=1195158366,1954620775
+dimwishlist:item=1476654960&perks=3523296417,3673922083
+dimwishlist:item=1476654960&perks=3523296417,1774574192
+dimwishlist:item=1476654960&perks=3523296417,2458213969
+dimwishlist:item=1476654960&perks=3523296417,1954620775
+
+
+// Vulpecula ()
+dimwishlist:item=1622998472&perks=3700496672,124408337
+dimwishlist:item=1622998472&perks=3700496672,3673922083
+dimwishlist:item=1622998472&perks=3700496672,3038247973
+dimwishlist:item=1622998472&perks=3700496672,2458213969
+dimwishlist:item=1622998472&perks=1168162263,124408337
+dimwishlist:item=1622998472&perks=1168162263,3673922083
+dimwishlist:item=1622998472&perks=1168162263,3038247973
+dimwishlist:item=1622998472&perks=1168162263,2458213969
+dimwishlist:item=1622998472&perks=1195158366,124408337
+dimwishlist:item=1622998472&perks=1195158366,3673922083
+dimwishlist:item=1622998472&perks=1195158366,3038247973
+dimwishlist:item=1622998472&perks=1195158366,2458213969
+
+
+// A Swift Verdict (pve)
+dimwishlist:item=1626503676&perks=4071163871,3592538738
+
+
+// A Swift Verdict (pvp)
+dimwishlist:item=1626503676&perks=2450788523,2846385770
+dimwishlist:item=1626503676&perks=2450788523,1015611457
+
+
+// The Hothead (Adept) ()
+dimwishlist:item=1866778462&perks=3523296417,1546637391
+dimwishlist:item=1866778462&perks=3523296417,3194351027
+dimwishlist:item=1866778462&perks=2869569095,1546637391
+dimwishlist:item=1866778462&perks=2869569095,3194351027
+dimwishlist:item=1866778462&perks=3977735242,1546637391
+dimwishlist:item=1866778462&perks=3977735242,3194351027
+
+
+// Canis Major ()
+dimwishlist:item=2066434718&perks=3301904089,2284787283,1546637391
+dimwishlist:item=2066434718&perks=3301904089,2284787283,2396489472
+dimwishlist:item=2066434718&perks=3301904089,951095735,1546637391
+dimwishlist:item=2066434718&perks=3301904089,951095735,2396489472
+dimwishlist:item=2066434718&perks=3301904089,2869569095,1546637391
+dimwishlist:item=2066434718&perks=3301904089,2869569095,2396489472
+
+
+// The Comedian (Adept) ()
+dimwishlist:item=2443900757&perks=1820235745,2360754333
+dimwishlist:item=2443900757&perks=1820235745,1546637391
+dimwishlist:item=2443900757&perks=1556840489,2360754333
+dimwishlist:item=2443900757&perks=1556840489,1546637391
+
+
+// Reed's Regret (Adept) ()
+dimwishlist:item=2475355656&perks=2284787283,1771339417
+dimwishlist:item=2475355656&perks=2284787283,1546637391
+dimwishlist:item=2475355656&perks=2284787283,438098033
+dimwishlist:item=2475355656&perks=3400784728,1771339417
+dimwishlist:item=2475355656&perks=3400784728,1546637391
+dimwishlist:item=2475355656&perks=3400784728,438098033
+
+
+// Darkest Before (pve)
+dimwishlist:item=2481758391&perks=1820235745,3425386926
+dimwishlist:item=2481758391&perks=1820235745,3592538738
+dimwishlist:item=2481758391&perks=1820235745,4049631843
+
+
+// Darkest Before (pvp)
+dimwishlist:item=2481758391&perks=2946784966,3425386926
+
+
+// Sorrow's Verse ()
+dimwishlist:item=2496875173&perks=1820235745,3523296417
+dimwishlist:item=2496875173&perks=1820235745,3592538738
+dimwishlist:item=2496875173&perks=1820235745,4104185692
+dimwishlist:item=2496875173&perks=1820235745,4049631843
+dimwishlist:item=2496875173&perks=1820235745,3425386926
+dimwishlist:item=2496875173&perks=2779035018,3523296417
+dimwishlist:item=2496875173&perks=2779035018,3592538738
+dimwishlist:item=2496875173&perks=2779035018,4104185692
+dimwishlist:item=2496875173&perks=2779035018,4049631843
+dimwishlist:item=2496875173&perks=2779035018,3425386926
+dimwishlist:item=2496875173&perks=1570042021,3523296417
+dimwishlist:item=2496875173&perks=1570042021,3592538738
+dimwishlist:item=2496875173&perks=1570042021,4104185692
+dimwishlist:item=2496875173&perks=1570042021,4049631843
+dimwishlist:item=2496875173&perks=1570042021,3425386926
+dimwishlist:item=2496875173&perks=1195158366,3523296417
+dimwishlist:item=2496875173&perks=1195158366,3592538738
+dimwishlist:item=2496875173&perks=1195158366,4104185692
+dimwishlist:item=2496875173&perks=1195158366,4049631843
+dimwishlist:item=2496875173&perks=1195158366,3425386926
+dimwishlist:item=2496875173&perks=2387244414,3523296417
+dimwishlist:item=2496875173&perks=2387244414,3592538738
+dimwishlist:item=2496875173&perks=2387244414,4104185692
+dimwishlist:item=2496875173&perks=2387244414,4049631843
+dimwishlist:item=2496875173&perks=2387244414,3425386926
+
+
+// Spoiler Alert ()
+dimwishlist:item=2588048270&perks=2779035018,4104185692
+dimwishlist:item=2588048270&perks=2779035018,3523296417
+dimwishlist:item=2588048270&perks=2779035018,4082225868
+dimwishlist:item=2588048270&perks=2779035018,1774574192
+dimwishlist:item=2588048270&perks=4071163871,4104185692
+dimwishlist:item=2588048270&perks=4071163871,3523296417
+dimwishlist:item=2588048270&perks=4071163871,4082225868
+dimwishlist:item=2588048270&perks=4071163871,1774574192
+
+
+// A Sudden Death (pve)
+dimwishlist:item=2855157553&perks=1631667848,2679249093
+dimwishlist:item=2855157553&perks=2869569095,2679249093
+
+
+// A Sudden Death (pvp)
+dimwishlist:item=2855157553&perks=3161816588,957782887
+
+
+// Iota Draconis (pve)
+dimwishlist:item=3044460004&perks=2779035018,3673922083
+dimwishlist:item=3044460004&perks=2779035018,1799762209
+dimwishlist:item=3044460004&perks=2779035018,438098033
+dimwishlist:item=3044460004&perks=2779035018,4104185692
+
+
+// Iota Draconis (pvp)
+dimwishlist:item=3044460004&perks=1645158859,1799762209
+dimwishlist:item=3044460004&perks=1645158859,1754714824
+dimwishlist:item=3044460004&perks=1645158859,2213355989
+dimwishlist:item=3044460004&perks=1570042021,1799762209
+dimwishlist:item=3044460004&perks=1570042021,1754714824
+dimwishlist:item=3044460004&perks=1570042021,2213355989
+
+
+// Fractethyst ()
+dimwishlist:item=3184681056&perks=1556840489,2360754333
+dimwishlist:item=3184681056&perks=1556840489,438098033
+
+
+// The Long Walk (pve)
+dimwishlist:item=3326850591&perks=2284787283,1771339417
+dimwishlist:item=3326850591&perks=2284787283,4104185692
+dimwishlist:item=3326850591&perks=3643424744,1771339417
+dimwishlist:item=3326850591&perks=3643424744,4104185692
+
+
+// The Long Walk (pvp)
+dimwishlist:item=3326850591&perks=2450788523,957782887
+
+
+// Legal Action II ()
+dimwishlist:item=3409645497&perks=2779035018,3425386926
+dimwishlist:item=3409645497&perks=2779035018,3592538738
+dimwishlist:item=3409645497&perks=2779035018,1774574192
+dimwishlist:item=3409645497&perks=2779035018,4104185692
+dimwishlist:item=3409645497&perks=1570042021,3425386926
+dimwishlist:item=3409645497&perks=1570042021,3592538738
+dimwishlist:item=3409645497&perks=1570042021,1774574192
+dimwishlist:item=3409645497&perks=1570042021,4104185692
+
+
+// Wolftone Draw ()
+dimwishlist:item=3472875143&perks=201365942,4104185692
+dimwishlist:item=3472875143&perks=201365942,3673922083
+dimwishlist:item=3472875143&perks=201365942,2848615171
+dimwishlist:item=3472875143&perks=201365942,3523296417
+dimwishlist:item=3472875143&perks=201365942,1799762209
+dimwishlist:item=3472875143&perks=951095735,4104185692
+dimwishlist:item=3472875143&perks=951095735,3673922083
+dimwishlist:item=3472875143&perks=951095735,2848615171
+dimwishlist:item=3472875143&perks=951095735,3523296417
+dimwishlist:item=3472875143&perks=951095735,1799762209
+dimwishlist:item=3472875143&perks=3700496672,4104185692
+dimwishlist:item=3472875143&perks=3700496672,3673922083
+dimwishlist:item=3472875143&perks=3700496672,2848615171
+dimwishlist:item=3472875143&perks=3700496672,3523296417
+dimwishlist:item=3472875143&perks=3700496672,1799762209
+
+
+// Shepherd's Watch (pve)
+dimwishlist:item=3743729616&perks=1556840489,1771339417
+
+
+// Shepherd's Watch (pvp)
+dimwishlist:item=3743729616&perks=2946784966,957782887
+dimwishlist:item=3743729616&perks=2946784966,47981717
+dimwishlist:item=3743729616&perks=2866798147,957782887
+dimwishlist:item=3743729616&perks=2866798147,47981717
+dimwishlist:item=3743729616&perks=1645158859,957782887
+dimwishlist:item=3743729616&perks=1645158859,47981717
+
+
+// The Hothead ()
+dimwishlist:item=4255171531&perks=3523296417,3194351027
+dimwishlist:item=4255171531&perks=3523296417,1546637391
+dimwishlist:item=4255171531&perks=2869569095,3194351027
+dimwishlist:item=4255171531&perks=2869569095,1546637391
+dimwishlist:item=4255171531&perks=3977735242,3194351027
+dimwishlist:item=4255171531&perks=3977735242,1546637391
+
+
+
+
+
 
 /////////////////////////////////////////////////////////////////////
 //Season 14 - Season of the Splicer
@@ -131,7 +482,7 @@ dimwishlist:item=2782325301&perks=1749209109,3708227201
 dimwishlist:item=2782325301&perks=1749209109,354401740
 
 //
-//      OVERRIDE
+//      SEASONAL CONTENT
 //
 
 //Chroma Rush
@@ -190,7 +541,7 @@ dimwishlist:item=304659313&perks=3301904089,2010801679,3523296417#notes:Blinding
 dimwishlist:item=304659313&perks=3301904089,2010801679,4049631843#notes:Blinding/Danger Zone for high end content, with AA/Slideshot/Lead from Gold in the middle perk depending on personal preference. If you can master the Slideshot mechanic, that with Spike/Vorpal is a great roll for DPS. Demolitionist and One For All are good in some builds.
 
 //
-//      PLAYLIST WEAPONS
+//      VANGUARD, CRUCIBLE, GAMBIT PLAYLISTS
 //
 
 //Survivor's Epitaph
@@ -252,7 +603,7 @@ dimwishlist:item=875848769&perks=2779035018,3425386926
 dimwishlist:item=875848769&perks=4071163871,3708227201
 
 //
-//      FWC WORLD LOOT
+//      WORLD LOOT
 //
 
 //Pleiades Corrector
@@ -1074,61 +1425,11 @@ dimwishlist:item=3629968765&perks=1749209109,3708227201
 //Trials of Osiris
 /////////////////////////////////////////////////////////////////////
 
-//The Messenger
-dimwishlist:item=3658188704&perks=247725512,4049631843
-dimwishlist:item=3658188704&perks=247725512,3047969693
-dimwishlist:item=3658188704&perks=247725512,1015611457
-dimwishlist:item=3658188704&perks=1168162263,4049631843
-dimwishlist:item=3658188704&perks=1168162263,3047969693
-dimwishlist:item=3658188704&perks=1168162263,1015611457
-
-//The Messenger (Adept)
-dimwishlist:item=1173780905&perks=247725512,4049631843
-dimwishlist:item=1173780905&perks=247725512,3047969693
-dimwishlist:item=1173780905&perks=247725512,1015611457
-dimwishlist:item=1173780905&perks=1168162263,4049631843
-dimwishlist:item=1173780905&perks=1168162263,3047969693
-dimwishlist:item=1173780905&perks=1168162263,1015611457
-
-//Igneous Hammer
-dimwishlist:item=2351180975&perks=247725512,3425386926
-dimwishlist:item=2351180975&perks=247725512,4049631843
-dimwishlist:item=2351180975&perks=1168162263,3425386926
-dimwishlist:item=2351180975&perks=1168162263,4049631843
-dimwishlist:item=2351180975&perks=1820235745,3425386926
-dimwishlist:item=2351180975&perks=1820235745,4049631843
-
-//Igneous Hammer (Adept)
-dimwishlist:item=2527666306&perks=247725512,3425386926
-dimwishlist:item=2527666306&perks=247725512,4049631843
-dimwishlist:item=2527666306&perks=1168162263,3425386926
-dimwishlist:item=2527666306&perks=1168162263,4049631843
-dimwishlist:item=2527666306&perks=1820235745,3425386926
-dimwishlist:item=2527666306&perks=1820235745,4049631843
-
-//Sola's Scar
-dimwishlist:item=1313528549&perks=1749209109,2396489472
-dimwishlist:item=1313528549&perks=1749209109,1546637391
-dimwishlist:item=1313528549&perks=2590710093,2396489472
-dimwishlist:item=1313528549&perks=2590710093,1546637391
-
-//Sola's Scar (Adept)
-dimwishlist:item=3847137620&perks=1749209109,2396489472
-dimwishlist:item=3847137620&perks=1749209109,1546637391
-dimwishlist:item=3847137620&perks=2590710093,2396489472
-dimwishlist:item=3847137620&perks=2590710093,1546637391
-
 //Astral Horizon
 dimwishlist:item=1697682876&perks=3300816228,2360754333
 
 //Astral Horizon (Adept)
 dimwishlist:item=532746994&perks=3300816228,2360754333
-
-//Eye of Sol
-dimwishlist:item=3164743584&perks=2869569095,1546637391
-
-//Eye of Sol (Adept)
-dimwishlist:item=3637570176&perks=2869569095,1546637391
 
 //The Scholar
 //There really aren't any good PVE-specific rolls on this weapon.
