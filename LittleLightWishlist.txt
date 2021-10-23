@@ -608,9 +608,14 @@ dimwishlist:item=3164743584&perks=2866798147,957782887
 dimwishlist:item=3164743584&perks=588594999,957782887
 
 
-// Fractethyst ()
+// Fractethyst (pve)
 dimwishlist:item=3184681056&perks=1556840489,2360754333
 dimwishlist:item=3184681056&perks=1556840489,438098033
+
+
+// Fractethyst (pvp)
+dimwishlist:item=3184681056&perks=3161816588,47981717
+dimwishlist:item=3184681056&perks=706527188,47981717
 
 
 // Twilight Oath (pvp)
