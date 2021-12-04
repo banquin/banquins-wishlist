@@ -136,19 +136,6 @@ dimwishlist:item=2782325301&perks=1749209109,354401740
 //      SEASONAL CONTENT
 //
 
-//Chroma Rush
-//  Heating Up, Feeding Frenzy, Subsistence
-//  Adrenaline Junkie, Rampage, Wellspring
-dimwishlist:item=1119734784&perks=1820235745,3425386926#notes: Subsistence/Rampage is the top PVE roll.
-dimwishlist:item=1119734784&perks=1820235745,3592538738#notes: Subsistence/Rampage is the top PVE roll.
-dimwishlist:item=1119734784&perks=1820235745,11612903#notes: Subsistence/Rampage is the top PVE roll.
-dimwishlist:item=1119734784&perks=2779035018,3425386926#notes: Subsistence/Rampage is the top PVE roll.
-dimwishlist:item=1119734784&perks=2779035018,3592538738#notes: Subsistence/Rampage is the top PVE roll.
-dimwishlist:item=1119734784&perks=2779035018,11612903#notes: Subsistence/Rampage is the top PVE roll.
-dimwishlist:item=1119734784&perks=1570042021,3425386926#notes: Subsistence/Rampage is the top PVE roll.
-dimwishlist:item=1119734784&perks=1570042021,3592538738#notes: Subsistence/Rampage is the top PVE roll.
-dimwishlist:item=1119734784&perks=1570042021,11612903#notes: Subsistence/Rampage is the top PVE roll.
-
 //Gridskipper
 //  Heating Up, Moving Target (PVP)
 //  Frenzy, Multikill Clip, Snapshot (PVP)
@@ -156,11 +143,6 @@ dimwishlist:item=1621558458&perks=1570042021,4104185692
 dimwishlist:item=1621558458&perks=1570042021,2458213969
 dimwishlist:item=1621558458&perks=1570042021,957782887#notes:PVP
 dimwishlist:item=1621558458&perks=588594999,957782887#notes:PVP
-
-//Farewell
-//  Full Auto
-//  Frenzy
-dimwishlist:item=541188001&perks=4267945040,4104185692
 
 //Sojourner's Tale
 //  Auto-Loading Holster, Threat Detector, Quickdraw (PVP)
@@ -344,14 +326,6 @@ dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007
 //  Rampage, Iron Gaze (PVP)
 dimwishlist:item=1967303408&perks=2869569095,3425386926
 dimwishlist:item=1967303408&perks=2846385770,4152709778
-
-//
-//      TRIALS OF OSIRIS
-//
-
-//Shayura's Wrath
-//Shayura's Wrath (Adept)
-//  There really aren't any great PVE rolls on this gun. There are better options available.
 
 
 
@@ -1430,20 +1404,6 @@ dimwishlist:item=4230965989&perks=2779035018,3425386926
 /////////////////////////////////////////////////////////////////////
 //Vault of Glass
 /////////////////////////////////////////////////////////////////////
-
-//Fatebringer
-//  Explosive Payload, Rewind Rounds, Thresh
-//  Firefly
-dimwishlist:item=2171478765&perks=3038247973,3824105627
-dimwishlist:item=2171478765&perks=3418782618,3824105627
-dimwishlist:item=2171478765&perks=2726471870,3824105627
-
-//Fatebringer (Timelost)
-//  Explosive Payload, Rewind Rounds, Thresh
-//  Firefly
-dimwishlist:item=1216319404&perks=3038247973,3824105627
-dimwishlist:item=1216319404&perks=3418782618,3824105627
-dimwishlist:item=1216319404&perks=2726471870,3824105627
 
 //Vision of Confluence
 //  Wellspring, Rewind Rounds, Zen Moment, Tunnel Vision (PVP)
