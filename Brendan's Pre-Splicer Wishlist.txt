@@ -1,0 +1,1537 @@
+title:Brendan's Wishlist.
+description: A PVE-focused wishlist that only looks for a match on the last 2 perks of each weapon. The few PVP-focused rolls in the list have "PVP" in wishlistnotes.
+
+/////////////////////////////////////////////////////////////////////
+//Table of Contents
+//
+//    Instructions
+//
+//    Season 15 (Lost)
+//    Season 14 (Splicer)
+//    Season 13 (Chosen)
+//    Season 12 (Hunt)
+//    Season 11 (Arrivals)
+//    Season 10 (Worthy)
+//    Seasons 1-9
+//    Events
+//    Prophecy
+//    Crucible
+//      Trials of Osiris
+//      Iron Banner - PVP rolls also considered
+//    Raids
+//      Last Wish
+//      Garden of Salvation
+//      Deep Stone Crypt
+//      Vault of Glass
+/////////////////////////////////////////////////////////////////////
+
+// Instructions
+
+// If you want to edit this wishlist, do the following:
+//      1. Go to d2gunsmith.com and search for the gun you want.
+//      2. Configure the gun with the roll you want to add.
+//      3. Click the diamond-shaped DIM logo in the "Extras" section on the page. This will copy the roll to your clipboard.
+//      4. In this document, find the weapon you configured a roll for.
+//      5. Write in the additional perks you configured under the weapon where perks are listed. If you added them for PVP specifically, put "(PVP)" after the perk.
+//      6. Paste your roll into the list. If it's a PVP roll, add "#notes:PVP" to that line.
+
+
+/////////////////////////////////////////////////////////////////////
+//Season 14 - Season of the Splicer
+/////////////////////////////////////////////////////////////////////
+
+//Null Composure
+dimwishlist:item=1644680957
+
+//
+//      NIGHTFALL
+//
+
+//Hung Jury SR4
+//  Subsistence, Rapid Hit, Heating Up, Moving Target (PVP)
+//  Explosive Payload, Firefly, Wellspring, Box Breathing (PVP)
+dimwishlist:item=4281371574&perks=1820235745,3038247973
+dimwishlist:item=4281371574&perks=1820235745,3824105627
+dimwishlist:item=4281371574&perks=1820235745,3592538738
+dimwishlist:item=4281371574&perks=247725512,3038247973
+dimwishlist:item=4281371574&perks=247725512,3824105627
+dimwishlist:item=4281371574&perks=247725512,3592538738
+dimwishlist:item=4281371574&perks=1570042021,3038247973
+dimwishlist:item=4281371574&perks=1570042021,3824105627
+dimwishlist:item=4281371574&perks=1570042021,3592538738
+dimwishlist:item=4281371574&perks=588594999,2551157718#notes:PVP
+dimwishlist:item=4281371574&perks=1570042021,2551157718#notes:PVP
+
+//Hung Jury SR4 (Adept)
+//  Subsistence, Rapid Hit, Heating Up, Moving Target (PVP)
+//  Explosive Payload, Firefly, Wellspring, Box Breathing (PVP)
+dimwishlist:item=681067419&perks=1820235745,3038247973
+dimwishlist:item=681067419&perks=1820235745,3824105627
+dimwishlist:item=681067419&perks=1820235745,3592538738
+dimwishlist:item=681067419&perks=247725512,3038247973
+dimwishlist:item=681067419&perks=247725512,3824105627
+dimwishlist:item=681067419&perks=247725512,3592538738
+dimwishlist:item=681067419&perks=1570042021,3038247973
+dimwishlist:item=681067419&perks=1570042021,3824105627
+dimwishlist:item=681067419&perks=1570042021,3592538738
+dimwishlist:item=681067419&perks=588594999,2551157718#notes:PVP
+
+//PLUG ONE.1
+//  Feeding Frenzy, Bottomless Grief
+//  Reservoir Burst
+dimwishlist:item=1289000550&perks=2779035018,1427256713
+dimwishlist:item=1289000550&perks=4252909580,1427256713
+
+//PLUG ONE.1 (Adept)
+//  Feeding Frenzy, Bottomless Grief
+//  Reservoir Burst
+dimwishlist:item=534775659&perks=2779035018,1427256713
+dimwishlist:item=534775659&perks=4252909580,1427256713
+
+//Uzume RR4
+//  Triple Tap, Lead from Gold, Clown Cartridge
+//  Explosive Payload, Vorpal Weapon
+dimwishlist:item=2065081837&perks=3400784728,3038247973
+dimwishlist:item=2065081837&perks=3400784728,1546637391
+dimwishlist:item=2065081837&perks=1556840489,3038247973
+dimwishlist:item=2065081837&perks=1556840489,1546637391
+dimwishlist:item=2065081837&perks=2284787283,3038247973
+dimwishlist:item=2065081837&perks=2284787283,1546637391
+
+//Uzume RR4 (Adept)
+//  Triple Tap, Lead from Gold, Clown Cartridge
+//  Explosive Payload, Vorpal Weapon
+dimwishlist:item=852228780&perks=3400784728,3038247973
+dimwishlist:item=852228780&perks=3400784728,1546637391
+dimwishlist:item=852228780&perks=1556840489,3038247973
+dimwishlist:item=852228780&perks=1556840489,1546637391
+dimwishlist:item=852228780&perks=2284787283,3038247973
+dimwishlist:item=852228780&perks=2284787283,1546637391
+
+//
+//      CLASS-SPECIFIC SWORDS
+//
+
+//Crown-Splitter
+//  Relentless Strikes, Tireless Blade
+//  Vorpal Weapon, Whirlwind Blade
+dimwishlist:item=2782325302&perks=1749209109,1546637391#notes:Edges in order of preference: Jagged, Tempered, Honed
+dimwishlist:item=2782325302&perks=2590710093,1546637391#notes:Edges in order of preference: Jagged, Tempered, Honed
+dimwishlist:item=2782325302&perks=1749209109,3913600130#notes:Edges in order of preference: Jagged, Tempered, Honed
+dimwishlist:item=2782325302&perks=1749209109,1546637391#notes:Edges in order of preference: Jagged, Tempered, Honed
+
+//Quickfang
+//  Relentless Strikes
+//  Assassin's Blade, En Garde
+dimwishlist:item=2782325300&perks=1749209109,354401740
+dimwishlist:item=2782325300&perks=1749209109,1685431615
+
+//Eternity's Edge
+//  Relentless Strikes
+//  Surrounded, Assassin's Blade
+dimwishlist:item=2782325301&perks=1749209109,3708227201
+dimwishlist:item=2782325301&perks=1749209109,354401740
+
+//
+//      SEASONAL CONTENT
+//
+
+//Gridskipper
+//  Heating Up, Moving Target (PVP)
+//  Frenzy, Multikill Clip, Snapshot (PVP)
+dimwishlist:item=1621558458&perks=1570042021,4104185692
+dimwishlist:item=1621558458&perks=1570042021,2458213969
+dimwishlist:item=1621558458&perks=1570042021,957782887#notes:PVP
+dimwishlist:item=1621558458&perks=588594999,957782887#notes:PVP
+
+//Sojourner's Tale
+//  Auto-Loading Holster, Threat Detector, Quickdraw (PVP)
+//  Frenzy, Opening Shot (PVP)
+dimwishlist:item=599895591&perks=3300816228,4104185692
+dimwishlist:item=599895591&perks=4071163871,4104185692
+dimwishlist:item=599895591&perks=706527188,47981717#notes:PVP
+
+//Shattered Cipher
+//  Auto-Loading Holster, Field Prep, Heating Up
+//  Rampage, Zen Moment
+dimwishlist:item=2434225986&perks=3300816228,3425386926
+dimwishlist:item=2434225986&perks=3300816228,2387244414
+dimwishlist:item=2434225986&perks=2869569095,3425386926
+dimwishlist:item=2434225986&perks=2869569095,2387244414
+dimwishlist:item=2434225986&perks=1570042021,3425386926
+dimwishlist:item=2434225986&perks=1570042021,2387244414
+
+//Ignition Code
+//  Note: this is a curated list of specific rolls for specific purposes.
+//  Blinding Grenades, Spike Grenades
+//  Slideshot, Ambitious Assassin, Lead from Gold
+//  Danger Zone, One For All, Vorpal Weapon
+dimwishlist:item=304659313&perks=3032599245,3161816588,960810156#notes:Blinding/Danger Zone for high end content, with AA/Slideshot/Lead from Gold in the middle perk depending on personal preference. If you can master the Slideshot mechanic, that with Spike/Vorpal is a great roll for DPS. Demolitionist and One For All are good in some builds.
+dimwishlist:item=304659313&perks=3032599245,2010801679,960810156#notes:Blinding/Danger Zone for high end content, with AA/Slideshot/Lead from Gold in the middle perk depending on personal preference. If you can master the Slideshot mechanic, that with Spike/Vorpal is a great roll for DPS. Demolitionist and One For All are good in some builds.
+dimwishlist:item=304659313&perks=3032599245,1556840489,960810156#notes:Blinding/Danger Zone for high end content, with AA/Slideshot/Lead from Gold in the middle perk depending on personal preference. If you can master the Slideshot mechanic, that with Spike/Vorpal is a great roll for DPS. Demolitionist and One For All are good in some builds.
+dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:Blinding/Danger Zone for high end content, with AA/Slideshot/Lead from Gold in the middle perk depending on personal preference. If you can master the Slideshot mechanic, that with Spike/Vorpal is a great roll for DPS. Demolitionist and One For All are good in some builds.
+dimwishlist:item=304659313&perks=3301904089,2010801679,3523296417#notes:Blinding/Danger Zone for high end content, with AA/Slideshot/Lead from Gold in the middle perk depending on personal preference. If you can master the Slideshot mechanic, that with Spike/Vorpal is a great roll for DPS. Demolitionist and One For All are good in some builds.
+dimwishlist:item=304659313&perks=3301904089,2010801679,4049631843#notes:Blinding/Danger Zone for high end content, with AA/Slideshot/Lead from Gold in the middle perk depending on personal preference. If you can master the Slideshot mechanic, that with Spike/Vorpal is a great roll for DPS. Demolitionist and One For All are good in some builds.
+
+//
+//      VANGUARD, CRUCIBLE, GAMBIT PLAYLISTS
+//
+
+//Survivor's Epitaph
+//  Heating Up, Outlaw, Feeding Frenzy, Subsistence, Rapid Hit
+//  Frenzy, Wellspring, Multikill Clip, One For All
+dimwishlist:item=310708513&perks=1570042021,4104185692
+dimwishlist:item=310708513&perks=1570042021,3592538738
+dimwishlist:item=310708513&perks=1570042021,2458213969
+dimwishlist:item=310708513&perks=1570042021,4049631843
+dimwishlist:item=310708513&perks=1168162263,4104185692
+dimwishlist:item=310708513&perks=1168162263,3592538738
+dimwishlist:item=310708513&perks=1168162263,2458213969
+dimwishlist:item=310708513&perks=1168162263,4049631843
+dimwishlist:item=310708513&perks=2779035018,4104185692
+dimwishlist:item=310708513&perks=2779035018,3592538738
+dimwishlist:item=310708513&perks=2779035018,2458213969
+dimwishlist:item=310708513&perks=2779035018,4049631843
+dimwishlist:item=310708513&perks=1820235745,4104185692
+dimwishlist:item=310708513&perks=1820235745,3592538738
+//Not including Subsistence/Multikill Clip since they don't synergize
+dimwishlist:item=310708513&perks=1820235745,4049631843
+dimwishlist:item=310708513&perks=247725512,4104185692
+dimwishlist:item=310708513&perks=247725512,3592538738
+dimwishlist:item=310708513&perks=247725512,2458213969
+dimwishlist:item=310708513&perks=247725512,4049631843
+
+
+//Empty Vessel
+//  Blinding Grenades, Spike Grenades
+//  Auto-Loading Holster, Ambitious Assassin
+//  One For All, Demolitionist, Vorpal Weapon
+dimwishlist:item=4255586669&perks=3032599245,3300816228,4049631843
+dimwishlist:item=4255586669&perks=3032599245,3300816228,3523296417
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3032599245,2010801679,4049631843
+dimwishlist:item=4255586669&perks=3032599245,2010801679,3523296417
+dimwishlist:item=4255586669&perks=3032599245,2010801679,1546637391
+dimwishlist:item=4255586669&perks=3301904089,3300816228,4049631843
+dimwishlist:item=4255586669&perks=3301904089,3300816228,3523296417
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3301904089,2010801679,4049631843
+dimwishlist:item=4255586669&perks=3301904089,2010801679,3523296417
+dimwishlist:item=4255586669&perks=3301904089,2010801679,1546637391
+
+//Borrowed Time
+//  Heating Up, Feeding Frenzy, Threat Detector
+//  Frenzy, Wellspring, Demolitionist, Swashbuckler, Rampage, Surrounded
+dimwishlist:item=875848769&perks=1570042021,4104185692
+dimwishlist:item=875848769&perks=1570042021,3592538738
+dimwishlist:item=875848769&perks=1570042021,3523296417
+dimwishlist:item=875848769&perks=1570042021,4082225868
+dimwishlist:item=875848769&perks=1570042021,3425386926
+dimwishlist:item=875848769&perks=2779035018,4104185692
+dimwishlist:item=875848769&perks=2779035018,3592538738
+dimwishlist:item=875848769&perks=2779035018,3523296417
+dimwishlist:item=875848769&perks=2779035018,4082225868
+dimwishlist:item=875848769&perks=2779035018,3425386926
+//Threat Detector and Surrounded only paired with each other.
+dimwishlist:item=875848769&perks=4071163871,3708227201
+
+//
+//      WORLD LOOT
+//
+
+//Pleiades Corrector
+//  Outlaw, Subsistence
+//  Demolitionist, Wellspring, Multikill Clip
+dimwishlist:item=3556999246&perks=1168162263,3523296417
+dimwishlist:item=3556999246&perks=1168162263,3592538738
+dimwishlist:item=3556999246&perks=1168162263,2458213969
+dimwishlist:item=3556999246&perks=1820235745,3523296417
+dimwishlist:item=3556999246&perks=1820235745,3592538738
+dimwishlist:item=3556999246&perks=1820235745,2458213969
+
+//Stochastic Variable
+//  Ambitious Assassin, Feeding Frenzy
+//  Multikill Clip, Wellspring, Dragonfly (with Phase Magazine)
+dimwishlist:item=2272470786&perks=2010801679,2458213969#notes:Phase Magazine in the second slot makes it a 600RPM, which makes Dragonfly potentially worthwile. FF/MKC makes it Recluse.
+dimwishlist:item=2272470786&perks=2010801679,3592538738#notes:Phase Magazine in the second slot makes it a 600RPM, which makes Dragonfly potentially worthwile. FF/MKC makes it Recluse.
+dimwishlist:item=2272470786&perks=2779035018,2458213969#notes:Phase Magazine in the second slot makes it a 600RPM, which makes Dragonfly potentially worthwile. FF/MKC makes it Recluse.
+dimwishlist:item=2272470786&perks=2779035018,3592538738#notes:Phase Magazine in the second slot makes it a 600RPM, which makes Dragonfly potentially worthwile. FF/MKC makes it Recluse.
+dimwishlist:item=2272470786&perks=830282363,2779035018,2848615171
+dimwishlist:item=2272470786&perks=830282363,2010801679,2848615171
+dimwishlist:item=2272470786&perks=830282363,2387244414,2848615171
+
+//Memory Interdict
+//  Spike Grenades
+//  Clown Cartridge, Auto-Loading Holster, Impulse Amplifier
+//  Chain Reaction
+dimwishlist:item=3165547384&perks=3301904089,2284787283,2396489472
+dimwishlist:item=3165547384&perks=3301904089,3300816228,2396489472
+dimwishlist:item=3165547384&perks=3301904089,951095735,2396489472
+
+//The Number
+//  Threat Detector
+//  Wellspring, One For All, Multikill Clip
+dimwishlist:item=2492081469&perks=4071163871,3592538738
+dimwishlist:item=2492081469&perks=4071163871,4049631843
+dimwishlist:item=2492081469&perks=4071163871,2458213969
+
+//The Deicide
+//  Lead From Gold, Dual Loader
+//  One-Two Punch, Vorpal Weapon
+dimwishlist:item=217140611&perks=1556840489,2679249093
+dimwishlist:item=217140611&perks=1556840489,1546637391
+dimwishlist:item=217140611&perks=25606670,2679249093
+dimwishlist:item=217140611&perks=25606670,1546637391
+
+//The Vision
+//  Ambitious Assassin, Full Auto
+//  One For All, Swashbuckler, Kill Clip
+dimwishlist:item=2414141462&perks=2010801679,4049631843
+dimwishlist:item=2414141462&perks=2010801679,4082225868
+dimwishlist:item=2414141462&perks=2010801679,1015611457
+dimwishlist:item=2414141462&perks=4267945040,4049631843
+dimwishlist:item=2414141462&perks=4267945040,4082225868
+dimwishlist:item=2414141462&perks=4267945040,1015611457
+
+
+//
+//      IRON BANNER
+//
+
+//Occluded Finality
+//  Auto-Loading Holster, Snapshot Sights (PVP), No Distractions (PVP)
+//  Vorpal Weapon, Opening Shot (PVP)
+dimwishlist:item=852551895&perks=3300816228,1546637391
+dimwishlist:item=852551895&perks=957782887,47981717#notes:PVP
+dimwishlist:item=852551895&perks=2866798147,47981717#notes:PVP
+
+//Finite Impactor
+//  Heating Up
+//  One For All, Multikill Clip, Iron Reach (PVP)
+dimwishlist:item=3813153080&perks=1570042021,4049631843
+dimwishlist:item=3813153080&perks=1570042021,2458213969
+dimwishlist:item=3813153080&perks=1570042021,591790007#notes:PVP
+
+//Riiswalker
+//  Smoothbore (PVP), Rifled Barrel (PVP)
+//  Accurized Rounds (PVP)
+//  Surplus, Quickdraw (PVP)
+//  Vorpal Weapon, Iron Reach (PVP)
+dimwishlist:item=108221785&perks=3436462433,1546637391
+dimwishlist:item=108221785&perks=466087222,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007
+
+//Archon's Thunder
+//  Field Prep, Rangefinder (PVP)
+//  Rampage, Iron Gaze (PVP)
+dimwishlist:item=1967303408&perks=2869569095,3425386926
+dimwishlist:item=1967303408&perks=2846385770,4152709778
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////
+//Season 13 - Season of the Chosen
+/////////////////////////////////////////////////////////////////////
+
+//Salvager's Salvo
+dimwishlist:item=2060863616
+
+//
+//      DREAMING CITY
+//
+
+//Retold Tale
+dimwishlist:item=346136302&perks=706527188,3523296417
+dimwishlist:item=346136302&perks=706527188,2679249093
+dimwishlist:item=346136302&perks=706527188,1546637391
+dimwishlist:item=346136302&perks=1556840489,1546637391
+dimwishlist:item=346136302&perks=1556840489,2679249093
+dimwishlist:item=346136302&perks=1556840489,3523296417
+
+//Vouchsafe
+dimwishlist:item=3242168339&perks=247725512,3592538738
+dimwishlist:item=3242168339&perks=247725512,2458213969
+dimwishlist:item=3242168339&perks=247725512,2848615171
+dimwishlist:item=3242168339&perks=247725512,2848615171
+dimwishlist:item=3242168339&perks=247725512,2458213969
+dimwishlist:item=3242168339&perks=247725512,3592538738
+
+//Waking Vigil
+dimwishlist:item=334171687&perks=247725512,1015611457
+dimwishlist:item=334171687&perks=1168162263,1015611457
+
+//Sleepless
+dimwishlist:item=3740842661&perks=3300816228,2396489472
+dimwishlist:item=3740842661&perks=3300816228,1546637391
+dimwishlist:item=3740842661&perks=3977735242,2396489472
+dimwishlist:item=3740842661&perks=3977735242,1546637391
+
+//
+//      ALTARS OF SORROW
+//
+
+//Blasphemer
+dimwishlist:item=2782847179&perks=791862061,1354429876,4082225868
+
+//Apostate
+dimwishlist:item=2164448701&perks=1168162263,3592538738
+
+//Premonition
+dimwishlist:item=208088207&perks=2779035018,3425386926
+dimwishlist:item=208088207&perks=2779035018,2726471870
+
+//Heretic
+dimwishlist:item=3067821200&perks=951095735,3927722942
+dimwishlist:item=3067821200&perks=951095735,1275731761
+
+//Cartesian Coordinate
+dimwishlist:item=2481881293&perks=2779035018,4082225868
+dimwishlist:item=2481881293&perks=2779035018,2213355989
+
+//Eternal Blazon
+dimwishlist:item=3514096004&perks=247725512,1015611457
+dimwishlist:item=3514096004&perks=247725512,4049631843
+dimwishlist:item=3514096004&perks=247725512,2726471870
+dimwishlist:item=3514096004&perks=3643424744,1015611457
+dimwishlist:item=3514096004&perks=3643424744,4049631843
+dimwishlist:item=3514096004&perks=3643424744,2726471870
+
+//Retrofuturist
+dimwishlist:item=1402766122&perks=25606670,2360754333
+dimwishlist:item=1402766122&perks=25606670,4082225868
+dimwishlist:item=1402766122&perks=2779035018,4082225868
+dimwishlist:item=1402766122&perks=2779035018,2360754333
+
+//Tarantula
+dimwishlist:item=3335343363&perks=2869569095,1015611457
+dimwishlist:item=3335343363&perks=2869569095,3592538738
+
+//
+//      NIGHTFALL
+//
+
+//The Palindrome
+//  Subsistence, Overflow, Outlaw, Killing Wind (PVP)
+//  Rampage, One For All, Thresh, Rangefinder (PVP)
+dimwishlist:item=432476743&perks=1168162263,3425386926
+dimwishlist:item=432476743&perks=1168162263,4049631843
+dimwishlist:item=432476743&perks=1168162263,2726471870
+dimwishlist:item=432476743&perks=3643424744,3425386926
+dimwishlist:item=432476743&perks=3643424744,4049631843
+dimwishlist:item=432476743&perks=3643424744,2726471870
+dimwishlist:item=432476743&perks=1820235745,3425386926
+dimwishlist:item=432476743&perks=1820235745,4049631843
+dimwishlist:item=432476743&perks=1820235745,2726471870
+dimwishlist:item=432476743&perks=2450788523,2846385770#notes:PVP Sevy
+
+//The Palindrome (Adept)
+//  Subsistence, Overflow, Outlaw, Killing Wind (PVP)
+//  Rampage, One For All, Thresh, Rangefinder (PVP)
+dimwishlist:item=1481892490&perks=1168162263,3425386926
+dimwishlist:item=1481892490&perks=1168162263,4049631843
+dimwishlist:item=1481892490&perks=1168162263,2726471870
+dimwishlist:item=1481892490&perks=3643424744,3425386926
+dimwishlist:item=1481892490&perks=3643424744,4049631843
+dimwishlist:item=1481892490&perks=3643424744,2726471870
+dimwishlist:item=1481892490&perks=1820235745,3425386926
+dimwishlist:item=1481892490&perks=1820235745,4049631843
+dimwishlist:item=1481892490&perks=1820235745,2726471870
+dimwishlist:item=1481892490&perks=2450788523,2846385770#notes:PVP Sevy
+
+//Shadow Price
+//  Overflow, Feeding Frenzy, Fourth Time's the Charm
+//  Swashbuckler, One For All, Dragonfly, Thresh
+dimwishlist:item=2633186522&perks=2779035018,4082225868
+dimwishlist:item=2633186522&perks=2779035018,4049631843
+dimwishlist:item=2633186522&perks=2779035018,2848615171
+dimwishlist:item=2633186522&perks=2779035018,2726471870
+dimwishlist:item=2633186522&perks=3643424744,4082225868
+dimwishlist:item=2633186522&perks=3643424744,4049631843
+dimwishlist:item=2633186522&perks=3643424744,2848615171
+dimwishlist:item=2633186522&perks=3643424744,2726471870
+dimwishlist:item=2633186522&perks=1354429876,4082225868
+dimwishlist:item=2633186522&perks=1354429876,4049631843
+dimwishlist:item=2633186522&perks=1354429876,2848615171
+dimwishlist:item=2633186522&perks=1354429876,2726471870
+
+//Shadow Price (Adept)
+//  Overflow, Feeding Frenzy, Fourth Time's the Charm
+//  Swashbuckler, One For All, Dragonfly, Thresh
+dimwishlist:item=2147010335&perks=2779035018,4082225868
+dimwishlist:item=2147010335&perks=2779035018,4049631843
+dimwishlist:item=2147010335&perks=2779035018,2848615171
+dimwishlist:item=2147010335&perks=2779035018,2726471870
+dimwishlist:item=2147010335&perks=3643424744,4082225868
+dimwishlist:item=2147010335&perks=3643424744,4049631843
+dimwishlist:item=2147010335&perks=3643424744,2848615171
+dimwishlist:item=2147010335&perks=3643424744,2726471870
+dimwishlist:item=2147010335&perks=1354429876,4082225868
+dimwishlist:item=2147010335&perks=1354429876,4049631843
+dimwishlist:item=2147010335&perks=1354429876,2848615171
+dimwishlist:item=2147010335&perks=1354429876,2726471870
+
+//The Swarm
+//  Outlaw, Dynamic Sway Reduction, Bottomless Grief
+//  One For All, Dragonfly, Vorpal Weapon
+dimwishlist:item=47772649&perks=1359896290,1546637391
+dimwishlist:item=47772649&perks=1359896290,4049631843
+dimwishlist:item=47772649&perks=1359896290,2848615171
+dimwishlist:item=47772649&perks=1168162263,1546637391
+dimwishlist:item=47772649&perks=1168162263,4049631843
+dimwishlist:item=47772649&perks=1168162263,2848615171
+dimwishlist:item=47772649&perks=4252909580,1546637391
+dimwishlist:item=47772649&perks=4252909580,4049631843
+dimwishlist:item=47772649&perks=4252909580,2848615171
+
+//The Swarm (Adept)
+//  Outlaw, Dynamic Sway Reduction, Bottomless Grief
+//  One For All, Dragonfly, Vorpal Weapon
+dimwishlist:item=3836861464&perks=1359896290,1546637391
+dimwishlist:item=3836861464&perks=1359896290,4049631843
+dimwishlist:item=3836861464&perks=1359896290,2848615171
+dimwishlist:item=3836861464&perks=1168162263,1546637391
+dimwishlist:item=3836861464&perks=1168162263,4049631843
+dimwishlist:item=3836861464&perks=1168162263,2848615171
+dimwishlist:item=3836861464&perks=4252909580,1546637391
+dimwishlist:item=3836861464&perks=4252909580,4049631843
+dimwishlist:item=3836861464&perks=4252909580,2848615171
+
+//
+//      BATTLEGROUNDS
+//
+
+//Brass Attacks
+dimwishlist:item=2121785039&perks=2779035018,3425386926
+dimwishlist:item=2121785039&perks=2779035018,4049631843
+dimwishlist:item=2121785039&perks=2779035018,3592538738
+dimwishlist:item=2121785039&perks=2779035018,4104185692
+dimwishlist:item=2121785039&perks=247725512,3425386926
+dimwishlist:item=2121785039&perks=247725512,4049631843
+dimwishlist:item=2121785039&perks=247725512,3592538738
+dimwishlist:item=2121785039&perks=247725512,4104185692
+
+//Threaded Needle
+dimwishlist:item=3075224551&perks=247725512,1546637391
+dimwishlist:item=3075224551&perks=3300816228,1546637391
+dimwishlist:item=3075224551&perks=2284787283,1546637391
+
+//Extraordinary Rendition
+dimwishlist:item=1097616550&perks=3643424744,4049631843
+dimwishlist:item=1097616550&perks=3643424744,3425386926
+dimwishlist:item=1097616550&perks=3643424744,2458213969
+dimwishlist:item=1097616550&perks=3643424744,4104185692
+dimwishlist:item=1097616550&perks=3643424744,2726471870
+dimwishlist:item=1097616550&perks=1168162263,4049631843
+dimwishlist:item=1097616550&perks=1168162263,3425386926
+dimwishlist:item=1097616550&perks=1168162263,2458213969
+dimwishlist:item=1097616550&perks=1168162263,4104185692
+dimwishlist:item=1097616550&perks=1168162263,2726471870
+dimwishlist:item=1097616550&perks=1820235745,4049631843
+dimwishlist:item=1097616550&perks=1820235745,3425386926
+dimwishlist:item=1097616550&perks=1820235745,2458213969
+dimwishlist:item=1097616550&perks=1820235745,4104185692
+dimwishlist:item=1097616550&perks=1820235745,2726471870
+dimwishlist:item=1097616550&perks=2387244414,1890422124#notes:PVP Sevy
+
+//Far Future
+//  Moving Target (PVP)
+//  Opening Shot (PVP)
+dimwishlist:item=893527433&perks=1556840489,3592538738
+dimwishlist:item=893527433&perks=1556840489,3523296417
+dimwishlist:item=893527433&perks=1556840489,47981717
+dimwishlist:item=893527433&perks=3300816228,3592538738
+dimwishlist:item=893527433&perks=3300816228,3523296417
+dimwishlist:item=893527433&perks=3300816228,47981717
+dimwishlist:item=893527433&perks=588594999,47981717#notes:PVP Sevy
+
+//Imperial Needle
+dimwishlist:item=3460122497&perks=201365942,4082225868
+dimwishlist:item=3460122497&perks=201365942,3592538738
+dimwishlist:item=3460122497&perks=201365942,2726471870
+dimwishlist:item=3460122497&perks=201365942,4104185692
+dimwishlist:item=3460122497&perks=951095735,4082225868
+dimwishlist:item=3460122497&perks=951095735,3592538738
+dimwishlist:item=3460122497&perks=951095735,2726471870
+dimwishlist:item=3460122497&perks=951095735,4104185692
+
+//Code Duello
+//  Auto-Loading Holster, Impulse Amplifier
+//  Chain Reaction, Lasting Impression
+dimwishlist:item=2496242052&perks=3300816228,3927722942
+dimwishlist:item=2496242052&perks=3300816228,2396489472
+dimwishlist:item=2496242052&perks=951095735,3927722942
+dimwishlist:item=2496242052&perks=951095735,2396489472
+
+//
+//      PLAYLIST
+//
+
+//Bottom Dollar
+//  Rapid Hit, Outlaw, Subsistence, Feeding Frenzy, Rangefinder (PvP)
+//  Rampage, Wellspring, Thresh, Multikill Clip, Demolitionist, Opening Shot (PvP)
+dimwishlist:item=1046651176&perks=247725512,3425386926
+dimwishlist:item=1046651176&perks=247725512,3592538738
+dimwishlist:item=1046651176&perks=247725512,2458213969
+dimwishlist:item=1046651176&perks=247725512,2726471870
+dimwishlist:item=1046651176&perks=247725512,3523296417
+dimwishlist:item=1046651176&perks=1168162263,3425386926
+dimwishlist:item=1046651176&perks=1168162263,3592538738
+dimwishlist:item=1046651176&perks=1168162263,2458213969
+dimwishlist:item=1046651176&perks=1168162263,2726471870
+dimwishlist:item=1046651176&perks=1168162263,3523296417
+dimwishlist:item=1046651176&perks=1820235745,3425386926
+dimwishlist:item=1046651176&perks=1820235745,3592538738
+dimwishlist:item=1046651176&perks=1820235745,2458213969
+dimwishlist:item=1046651176&perks=1820235745,2726471870
+dimwishlist:item=1046651176&perks=1820235745,3523296417
+dimwishlist:item=1046651176&perks=2779035018,3425386926
+dimwishlist:item=1046651176&perks=2779035018,3592538738
+dimwishlist:item=1046651176&perks=2779035018,2458213969
+dimwishlist:item=1046651176&perks=2779035018,2726471870
+dimwishlist:item=1046651176&perks=2779035018,3523296417
+dimwishlist:item=1046651176&perks=2846385770,47981717#notes:PVP Sevy
+
+//Trinary System
+//  Under Pressure (PVP)
+//  Backup Plan (PVP), Tap the Trigger (PVP)
+dimwishlist:item=3258665412&perks=2779035018,4082225868
+dimwishlist:item=3258665412&perks=2779035018,3592538738
+dimwishlist:item=3258665412&perks=2779035018,3523296417
+dimwishlist:item=3258665412&perks=2779035018,1015611457
+dimwishlist:item=3258665412&perks=2779035018,2458213969
+dimwishlist:item=3258665412&perks=3300816228,4082225868
+dimwishlist:item=3258665412&perks=3300816228,3592538738
+dimwishlist:item=3258665412&perks=3300816228,3523296417
+dimwishlist:item=3258665412&perks=1645158859,1600092898#notes:PVP Sevy
+dimwishlist:item=3258665412&perks=1645158859,1890422124#notes:PVP Sevy
+
+
+//Frozen Orbit
+//  Clown Cartridge, Triple Tap, No Distractions (PVP), Firmly Planted (PVP), Moving Target (PVP)
+//  Vorpal Weapons, High-Impact Reserves, Opening Shot (PVP)
+dimwishlist:item=3473290087&perks=3400784728,1546637391
+dimwishlist:item=3473290087&perks=3400784728,2213355989
+dimwishlist:item=3473290087&perks=2284787283,1546637391
+dimwishlist:item=3473290087&perks=2284787283,2213355989
+dimwishlist:item=3473290087&perks=2866798147,47981717#notes:PVP
+dimwishlist:item=3473290087&perks=280464955,47981717#notes:PVP
+dimwishlist:item=3473290087&perks=588594999,47981717#notes:PVP Sevy
+
+//The Keening
+dimwishlist:item=409551876&perks=247725512,4049631843
+dimwishlist:item=409551876&perks=247725512,2726471870
+dimwishlist:item=409551876&perks=247725512,3592538738
+dimwishlist:item=409551876&perks=247725512,2458213969
+dimwishlist:item=409551876&perks=1820235745,4049631843
+dimwishlist:item=409551876&perks=1820235745,2726471870
+dimwishlist:item=409551876&perks=1820235745,3592538738
+dimwishlist:item=409551876&perks=1820235745,2458213969
+
+//The Third Axiom
+//  Feeding Frenzy, Subsistence
+//  Rampage, Multikill Clip, One for All, Thresh
+dimwishlist:item=4156253727&perks=2779035018,3425386926
+dimwishlist:item=4156253727&perks=2779035018,4049631843
+dimwishlist:item=4156253727&perks=2779035018,2458213969
+dimwishlist:item=4156253727&perks=2779035018,2726471870
+dimwishlist:item=4156253727&perks=1820235745,3425386926
+dimwishlist:item=4156253727&perks=1820235745,4049631843
+dimwishlist:item=4156253727&perks=1820235745,2458213969
+dimwishlist:item=4156253727&perks=1820235745,2726471870
+
+//Royal Entry
+//  Auto-Loading Holster, Impulse Amplifier
+//  Chain Reaction, Lasting Impression, Clown Cartridge
+dimwishlist:item=2448907086&perks=951095735,2396489472
+dimwishlist:item=2448907086&perks=951095735,3927722942
+dimwishlist:item=2448907086&perks=951095735,2284787283
+dimwishlist:item=2448907086&perks=3300816228,2396489472
+dimwishlist:item=2448907086&perks=3300816228,3927722942
+dimwishlist:item=2448907086&perks=3300816228,2284787283
+
+
+
+/////////////////////////////////////////////////////////////////////
+//Season 12 - Season of the Hunt
+/////////////////////////////////////////////////////////////////////
+
+//Adored
+dimwishlist:item=4184808992
+
+//
+//      EUROPA
+//
+
+//Hailing Confusion
+dimwishlist:item=2870169846&perks=1168162263,3523296417
+dimwishlist:item=2870169846&perks=1168162263,3592538738
+dimwishlist:item=2870169846&perks=3436462433,3523296417
+dimwishlist:item=2870169846&perks=3436462433,3592538738
+
+//High Albedo
+dimwishlist:item=1197486957&perks=2010801679,3592538738
+dimwishlist:item=1197486957&perks=2010801679,3523296417
+dimwishlist:item=1197486957&perks=4071163871,3592538738
+dimwishlist:item=1197486957&perks=4071163871,3523296417
+
+//Arctic Haze
+dimwishlist:item=20935540&perks=1168162263,2726471870
+dimwishlist:item=20935540&perks=1168162263,2848615171
+dimwishlist:item=20935540&perks=1820235745,2726471870
+dimwishlist:item=20935540&perks=1820235745,2848615171
+
+//Bonechiller
+dimwishlist:item=4037745684&perks=1556840489,3523296417
+dimwishlist:item=4037745684&perks=1556840489,47981717
+dimwishlist:item=4037745684&perks=3300816228,3523296417
+dimwishlist:item=4037745684&perks=3300816228,47981717
+
+//Subzero Salvo
+dimwishlist:item=42351395&perks=2010801679,2396489472
+dimwishlist:item=42351395&perks=2010801679,1275731761
+
+//Biting Winds
+dimwishlist:item=1621657423&perks=247725512,4082225868
+dimwishlist:item=1621657423&perks=247725512,3365897133
+
+//Coriolis Force
+dimwishlist:item=3512349612&perks=2779035018,2726471870
+dimwishlist:item=3512349612&perks=2779035018,4049631843
+
+//Thermal Erosion
+dimwishlist:item=1766088024&perks=2387244414,2848615171
+dimwishlist:item=1766088024&perks=2387244414,1359896290
+dimwishlist:item=1766088024&perks=2387244414,3592538738
+
+//
+//      WRATHBORN HUNTS
+//
+
+//Friction Fire
+dimwishlist:item=1513993763&perks=4071163871,3425386926
+dimwishlist:item=1513993763&perks=4071163871,3592538738
+dimwishlist:item=1513993763&perks=1820235745,3592538738
+dimwishlist:item=1513993763&perks=1820235745,3425386926
+dimwishlist:item=1513993763&perks=2387244414,3425386926
+dimwishlist:item=1513993763&perks=2387244414,3592538738
+
+//Deafening Whisper
+dimwishlist:item=981718087&perks=2010801679,3425386926
+dimwishlist:item=981718087&perks=2010801679,3592538738
+
+//Corsair's Wrath
+dimwishlist:item=2714022207&perks=1168162263,2213355989
+
+//Blast Battue
+dimwishlist:item=2453357042&perks=2284787283,2396489472
+dimwishlist:item=2453357042&perks=2284787283,3300816228
+
+//
+//      PLAYLIST WEAPONS
+//
+
+//Stars in Shadow
+dimwishlist:item=2050789284&perks=2779035018,1015611457
+dimwishlist:item=2050789284&perks=2779035018,2726471870
+dimwishlist:item=2050789284&perks=2779035018,3523296417
+dimwishlist:item=2050789284&perks=2779035018,2848615171
+dimwishlist:item=2050789284&perks=1168162263,1015611457
+dimwishlist:item=2050789284&perks=1168162263,2726471870
+dimwishlist:item=2050789284&perks=1168162263,3523296417
+dimwishlist:item=2050789284&perks=1168162263,2848615171
+
+//Xenoclast IV
+dimwishlist:item=2891672170&perks=3300816228,2679249093
+dimwishlist:item=2891672170&perks=3300816228,3425386926
+dimwishlist:item=2891672170&perks=3300816228,2360754333
+dimwishlist:item=2891672170&perks=3300816228,1546637391
+dimwishlist:item=2891672170&perks=3300816228,4082225868
+dimwishlist:item=2891672170&perks=1556840489,2679249093
+dimwishlist:item=2891672170&perks=1556840489,3425386926
+dimwishlist:item=2891672170&perks=1556840489,2360754333
+dimwishlist:item=2891672170&perks=1556840489,1546637391
+dimwishlist:item=2891672170&perks=1556840489,4082225868
+
+//Crowd Pleaser
+dimwishlist:item=3565520715&perks=2284787283,2396489472
+dimwishlist:item=3565520715&perks=2869569095,2396489472
+
+//Royal Chase
+dimwishlist:item=2776503072&perks=3300816228,2458213969
+dimwishlist:item=2776503072&perks=3300816228,2848615171
+dimwishlist:item=2776503072&perks=3300816228,2726471870
+
+
+/////////////////////////////////////////////////////////////////////
+//Season 11 - Season of Arrivals
+/////////////////////////////////////////////////////////////////////
+
+//False Promises
+dimwishlist:item=3143732432&perks=2779035018,4082225868
+dimwishlist:item=3143732432&perks=2779035018,3425386926
+dimwishlist:item=3143732432&perks=3643424744,4082225868
+dimwishlist:item=3143732432&perks=3643424744,3425386926
+dimwishlist:item=3143732432&perks=1820235745,4082225868
+dimwishlist:item=3143732432&perks=1820235745,3425386926
+
+//Whispering Slab
+dimwishlist:item=211938782&perks=201365942,4082225868
+dimwishlist:item=211938782&perks=201365942,3523296417
+dimwishlist:item=211938782&perks=201365942,47981717
+
+//First In, Last Out
+dimwishlist:item=3616586446&perks=3300816228,3523296417
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+
+//Hollow Words
+dimwishlist:item=607191995&perks=2779035018,3708227201
+dimwishlist:item=607191995&perks=1556840489,3708227201
+
+//IKELOS_SMG_V1.0.2
+dimwishlist:item=2222560548&perks=4071163871,3523296417
+dimwishlist:item=2222560548&perks=1820235745,3523296417
+dimwishlist:item=2222560548&perks=1820235745,3708227201
+dimwishlist:item=2222560548&perks=4071163871,3708227201
+
+//IKELOS_SR_v1.0.2
+dimwishlist:item=1253087083&perks=1354429876,2213355989
+dimwishlist:item=1253087083&perks=2779035018,2458213969
+
+//Berenger's Memory
+dimwishlist:item=407621213&perks=2284787283,3300816228
+dimwishlist:item=407621213&perks=2869569095,3300816228
+
+//Temptation's Hook
+dimwishlist:item=35794111&perks=1749209109,3913600130
+dimwishlist:item=35794111&perks=1749209109,1546637391
+dimwishlist:item=35794111&perks=2590710093,3913600130
+
+//Nature of the Beast
+dimwishlist:item=1835747805&perks=1820235745,3523296417
+
+//Truthteller
+dimwishlist:item=1946491241&perks=2779035018,4082225868
+dimwishlist:item=1946491241&perks=2779035018,2458213969
+dimwishlist:item=1946491241&perks=2779035018,3523296417
+dimwishlist:item=1946491241&perks=3300816228,4082225868
+dimwishlist:item=1946491241&perks=3300816228,2458213969
+dimwishlist:item=1946491241&perks=3300816228,3523296417
+
+//Cold Denial
+dimwishlist:item=1216130969&perks=2779035018,4082225868
+dimwishlist:item=1216130969&perks=2779035018,2458213969
+
+//Falling Guillotine
+dimwishlist:item=614426548&perks=1749209109,3913600130
+
+//Gnawing Hunger
+dimwishlist:item=821154603&perks=2387244414,3425386926
+dimwishlist:item=821154603&perks=2387244414,1015611457
+dimwishlist:item=821154603&perks=2387244414,2458213969
+dimwishlist:item=821154603&perks=2387244414,3523296417
+dimwishlist:item=821154603&perks=2387244414,4082225868
+dimwishlist:item=821154603&perks=1820235745,3425386926
+dimwishlist:item=821154603&perks=1820235745,1015611457
+dimwishlist:item=821154603&perks=1820235745,2458213969
+dimwishlist:item=821154603&perks=1820235745,3523296417
+dimwishlist:item=821154603&perks=1820235745,4082225868
+
+//Night Watch
+dimwishlist:item=3504336176&perks=247725512,3425386926
+dimwishlist:item=3504336176&perks=247725512,3523296417
+dimwishlist:item=3504336176&perks=247725512,2458213969
+dimwishlist:item=3504336176&perks=1168162263,3425386926
+dimwishlist:item=3504336176&perks=1168162263,3523296417
+dimwishlist:item=3504336176&perks=1168162263,2458213969
+dimwishlist:item=3504336176&perks=1820235745,3425386926
+dimwishlist:item=3504336176&perks=1820235745,3523296417
+dimwishlist:item=3504336176&perks=1820235745,2458213969
+
+//Lonesome
+dimwishlist:item=2199171672&perks=247725512,4082225868
+dimwishlist:item=2199171672&perks=247725512,3523296417
+dimwishlist:item=2199171672&perks=247725512,1015611457
+dimwishlist:item=2199171672&perks=247725512,2458213969
+
+
+
+/////////////////////////////////////////////////////////////////////
+//Season 10 - Season of the Worthy
+/////////////////////////////////////////////////////////////////////
+
+//Dire Promise
+dimwishlist:item=2742838701&perks=3643424744,4082225868
+
+//Enigma's Draw
+dimwishlist:item=1723380073&perks=4267945040,4082225868
+
+//Escape Velocity
+dimwishlist:item=1786797708&perks=3643424744,3708227201
+dimwishlist:item=1786797708&perks=4071163871,3708227201
+
+//True Prophecy
+dimwishlist:item=2742838700&perks=3643424744,3425386926
+dimwishlist:item=2742838700&perks=3643424744,3523296417
+
+//Distant Tumulus
+dimwishlist:item=2807687156&perks=2284787283,1771339417
+dimwishlist:item=2807687156&perks=1556840489,1771339417
+
+//Jian 7 Rifle
+dimwishlist:item=1162247618&perks=2387244414,3425386926
+dimwishlist:item=1162247618&perks=2387244414,4082225868
+
+//Timeline's Vertex
+dimwishlist:item=3055192515&perks=3300816228,3523296417
+dimwishlist:item=3055192515&perks=1556840489,3523296417
+
+//Honor's Edge
+dimwishlist:item=2857348871&perks=1749209109,3708227201
+
+//Interference VI
+dimwishlist:item=2257180473&perks=2284787283,2888557110
+dimwishlist:item=2257180473&perks=3300816228,2888557110
+dimwishlist:item=2257180473&perks=2869569095,2888557110
+
+//Seventh Seraph Carbine
+//  Fourth Time's the Charm, Auto-Loading Holster
+//  Swashbuckler, Rampage
+dimwishlist:item=1561006927&perks=3300816228,3425386926
+dimwishlist:item=1561006927&perks=3300816228,3425386926
+dimwishlist:item=1561006927&perks=1354429876,4082225868
+dimwishlist:item=1561006927&perks=1354429876,3425386926
+
+//Seventh Seraph Officer Revolver
+//  Ambitious Assassin
+//  Feeding Frenzy, Multikill Clip
+dimwishlist:item=3037520408&perks=2010801679,2213355989
+dimwishlist:item=3037520408&perks=2010801679,2779035018
+dimwishlist:item=3037520408&perks=2010801679,2458213969
+
+//Seventh Seraph CQC-12
+dimwishlist:item=1821724780&perks=3300816228,2360754333
+dimwishlist:item=1821724780&perks=3300816228,1546637391
+dimwishlist:item=1821724780&perks=1556840489,1546637391
+dimwishlist:item=1821724780&perks=1556840489,2360754333
+
+//Seventh Seraph SI-2
+dimwishlist:item=3937866388&perks=4071163871,3708227201
+dimwishlist:item=3937866388&perks=3523296417,3708227201
+dimwishlist:item=3937866388&perks=3523296417,2848615171
+
+//Seventh Seraph VY-7
+dimwishlist:item=766323545&perks=2010801679,2779035018
+
+//Seventh Seraph SAW
+dimwishlist:item=2582755344&perks=2869569095,1771339417
+dimwishlist:item=2582755344&perks=2869569095,1546637391
+dimwishlist:item=2582755344&perks=3300816228,1771339417
+dimwishlist:item=2582755344&perks=3300816228,1546637391
+dimwishlist:item=2582755344&perks=2284787283,1771339417
+dimwishlist:item=2582755344&perks=2284787283,1546637391
+
+//Felwinter's Lie
+dimwishlist:item=1179141605
+
+/////////////////////////////////////////////////////////////////////
+//Seasons 1-9
+/////////////////////////////////////////////////////////////////////
+
+//Main Ingredient
+dimwishlist:item=253196586&perks=3300816228,3425386926
+dimwishlist:item=253196586&perks=3300816228,1600092898
+
+//Toil and Trouble
+dimwishlist:item=2957367743&perks=2117683199,3425386926
+dimwishlist:item=2957367743&perks=2117683199,3300816228
+
+//Arsenic Bite-4b
+dimwishlist:item=720351795&perks=3425386926,201365942
+dimwishlist:item=720351795&perks=3425386926,3365897133
+
+//Long Shadow
+//  Rapid Hit
+//  Rampage, Triple Tap, Explosive Payload
+dimwishlist:item=3745990145&perks=247725512,3425386926
+dimwishlist:item=3745990145&perks=247725512,3400784728
+dimwishlist:item=3745990145&perks=247725512,3038247973
+
+//Outrageous Fortune
+dimwishlist:item=4146702548&perks=3301904089,2869569095,3425386926
+dimwishlist:item=4146702548&perks=3301904089,3300816228,3425386926
+
+//Last Perdition
+dimwishlist:item=188882152&perks=1168162263,3425386926
+
+//Bad Omens
+dimwishlist:item=991314988&perks=3977735242,1275731761
+dimwishlist:item=991314988&perks=3300816228,1275731761
+
+//Last Dance
+dimwishlist:item=2009277538&perks=4267945040,1015611457
+dimwishlist:item=2009277538&perks=1168162263,1015611457
+
+//Steel Sybil Z-14
+dimwishlist:item=4230993599&perks=1749209109,3913600130
+
+//Wishbringer
+dimwishlist:item=3356526253&perks=2869569095,3300816228
+dimwishlist:item=3356526253&perks=2869569095,3425386926
+
+//Drang
+dimwishlist:item=2362471600
+
+//MIDA Mini-Tool
+dimwishlist:item=3089417788
+
+/////////////////////////////////////////////////////////////////////
+//Events
+/////////////////////////////////////////////////////////////////////
+
+//Cold Front
+//  Subsistence
+//  Rampage
+dimwishlist:item=1506719573&perks=1820235745,3425386926
+
+//Glacioclasm
+//  Particle Repeater (PVP)
+//  Surplus, Under Pressure (PVP)
+//  Swashbuckler, High-Impact Reserves (PVP)
+dimwishlist:item=1030895163&perks=3436462433,4082225868
+dimwishlist:item=1030895163&perks=3868766766,1645158859,2213355989#notes:PVP
+
+//Avalanche
+dimwishlist:item=66875353&perks=3300816228,4082225868
+
+//Braytech Werewolf
+dimwishlist:item=528834068&perks=2387244414,2458213969
+
+//Horror Story
+dimwishlist:item=3829285960&perks=2387244414,3425386926
+
+/////////////////////////////////////////////////////////////////////
+//Prophecy
+/////////////////////////////////////////////////////////////////////
+
+//Death Adder
+dimwishlist:item=2742490609&perks=2779035018,2848615171
+dimwishlist:item=2742490609&perks=1820235745,2848615171
+
+//IKELOS_HC_V1.0.2
+dimwishlist:item=1200824700&perks=1820235745,3425386926
+
+//IKELOS_SG_v1.0.2
+dimwishlist:item=1096206669&perks=2779035018,2360754333
+dimwishlist:item=1096206669&perks=2779035018,1546637391
+dimwishlist:item=1096206669&perks=2779035018,3425386926
+dimwishlist:item=1096206669&perks=1556840489,2360754333
+dimwishlist:item=1096206669&perks=1556840489,1546637391
+dimwishlist:item=1096206669&perks=1556840489,3425386926
+
+//Widow's Bite
+dimwishlist:item=1271343896&perks=2779035018,3523296417
+
+//Hoosegow
+dimwishlist:item=3669616453&perks=2869569095,1275731761
+dimwishlist:item=3669616453&perks=2869569095,1015611457
+dimwishlist:item=3669616453&perks=3300816228,1275731761
+dimwishlist:item=3669616453&perks=3300816228,1015611457
+dimwishlist:item=3669616453&perks=3977735242,1275731761
+dimwishlist:item=3669616453&perks=3977735242,1015611457
+
+//Negative Space
+dimwishlist:item=3629968765&perks=1749209109,3913600130
+dimwishlist:item=3629968765&perks=1749209109,3708227201
+
+/////////////////////////////////////////////////////////////////////
+//Trials of Osiris
+/////////////////////////////////////////////////////////////////////
+
+//Astral Horizon
+dimwishlist:item=1697682876&perks=3300816228,2360754333
+
+//Astral Horizon (Adept)
+dimwishlist:item=532746994&perks=3300816228,2360754333
+
+//The Scholar
+//There really aren't any good PVE-specific rolls on this weapon.
+
+//Exile's Curse
+dimwishlist:item=679281855&perks=706527188,1546637391
+
+//Exile's Curse (Adept)
+dimwishlist:item=276080079&perks=706527188,1546637391
+
+//The Summoner
+dimwishlist:item=1907698332&perks=2387244414,3425386926
+dimwishlist:item=1907698332&perks=2387244414,2848615171
+dimwishlist:item=1907698332&perks=3643424744,3425386926
+dimwishlist:item=1907698332&perks=3643424744,2848615171
+
+//The Summoner (Adept)
+dimwishlist:item=3514144928&perks=2387244414,3425386926
+dimwishlist:item=3514144928&perks=2387244414,2848615171
+dimwishlist:item=3514144928&perks=3643424744,3425386926
+dimwishlist:item=3514144928&perks=3643424744,2848615171
+
+//Tomorrow's Answer
+dimwishlist:item=958384347&perks=951095735,2396489472
+dimwishlist:item=958384347&perks=951095735,3927722942
+dimwishlist:item=958384347&perks=951095735,1275731761
+dimwishlist:item=958384347&perks=3300816228,2396489472
+dimwishlist:item=958384347&perks=3300816228,3927722942
+dimwishlist:item=958384347&perks=3300816228,1275731761
+dimwishlist:item=958384347&perks=3977735242,2396489472
+dimwishlist:item=958384347&perks=3977735242,3927722942
+dimwishlist:item=958384347&perks=3977735242,1275731761
+
+//Tomorrow's Answer (Adept)
+dimwishlist:item=1366917989&perks=951095735,2396489472
+dimwishlist:item=1366917989&perks=951095735,3927722942
+dimwishlist:item=1366917989&perks=951095735,1275731761
+dimwishlist:item=1366917989&perks=3300816228,2396489472
+dimwishlist:item=1366917989&perks=3300816228,3927722942
+dimwishlist:item=1366917989&perks=3300816228,1275731761
+dimwishlist:item=1366917989&perks=3977735242,2396489472
+dimwishlist:item=1366917989&perks=3977735242,3927722942
+dimwishlist:item=1366917989&perks=3977735242,1275731761
+
+/////////////////////////////////////////////////////////////////////
+//Iron Banner
+/////////////////////////////////////////////////////////////////////
+
+//Swarm of the Raven
+//  Spike Grenades
+//  Auto-Loading Holster, Field Prep
+//  Ambitious Assassin
+dimwishlist:item=1972985595&perks=3301904089,3300816228,2010801679
+dimwishlist:item=1972985595&perks=3301904089,2869569095,2010801679
+
+//Bite of the Fox
+//  Snapshot Sights (PVP), Rapid Hit
+//  Opening Shot, Field Prep
+dimwishlist:item=3169616514&perks=957782887,47981717#notes:PVP
+dimwishlist:item=3169616514&perks=247725512,47981717
+dimwishlist:item=3169616514&perks=247725512,2869569095
+
+//Orewing's Maul
+//  Proximity Grenades
+//  Quickdraw
+//  Auto-Loading Holster, Demolitionist
+dimwishlist:item=2108920981&perks=409831596,706527188,3300816228
+dimwishlist:item=2108920981&perks=409831596,706527188,3523296417
+dimwishlist:item=2108920981&perks=706527188,3300816228
+dimwishlist:item=2108920981&perks=706527188,3523296417
+
+//Crimil's Dagger
+//  Outlaw, Snapshot Sights (PVP), Rangefinder (PVP), Moving Target (PVP)
+//  Kill Clip, Opening Shot, Explosive Payload
+dimwishlist:item=4292849692&perks=1168162263,1015611457
+dimwishlist:item=4292849692&perks=1168162263,47981717
+dimwishlist:item=4292849692&perks=1168162263,3038247973
+dimwishlist:item=4292849692&perks=957782887,1015611457#notes:PVP
+dimwishlist:item=4292849692&perks=957782887,47981717#notes:PVP
+dimwishlist:item=4292849692&perks=2846385770,47981717#notes:PVP
+dimwishlist:item=4292849692&perks=2846385770,1015611457#notes:PVP
+dimwishlist:item=4292849692&perks=588594999,47981717#notes:PVP Sevy
+
+
+//Shining Sphere
+//  Field Prep
+//  Tracking Module
+dimwishlist:item=136525518&perks=2869569095,3977735242#notes: You should probably just delete this. There are much better rolls available on other RLs.
+
+//Talons of the Eagle
+//  Outlaw
+//  Rampage, Explosive Payload
+dimwishlist:item=1982711279&perks=1168162263,3425386926
+dimwishlist:item=1982711279&perks=1168162263,3038247973
+
+//Point of the Stag
+dimwishlist:item=3434944005
+
+//The Guiding Sight
+//  Rapid Hit, Quickdraw (PVP)
+//  Iron Grip (PVP), One For All
+dimwishlist:item=1641430382&perks=247725512,4049631843
+dimwishlist:item=1641430382&perks=247725512,11551321#notes:PVP
+dimwishlist:item=1641430382&perks=706527188,11551321#notes:PVP
+
+//The Steady Hand
+//  Outlaw, Quickdraw (PVP), Moving Target (PVP)
+//  Swashbuckler, Wellspring, Snapshot Sights (PVP)
+dimwishlist:item=2220884262&perks=1168162263,4082225868
+dimwishlist:item=2220884262&perks=1168162263,3592538738
+dimwishlist:item=2220884262&perks=1168162263,957782887#notes:PVP
+dimwishlist:item=2220884262&perks=706527188,957782887#notes:PVP
+dimwishlist:item=2220884262&perks=588594999,4082225868#notes:PVP Sevy
+
+//The Forward Path
+//  Feeding Frenzy, Dynamic Sway Reduction (PVP)
+//  Swashbuckler, Multikill Clip, Iron Grip (PVP), Tap The Trigger (PVP)
+dimwishlist:item=1690783811&perks=2779035018,4082225868
+dimwishlist:item=1690783811&perks=2779035018,2458213969
+dimwishlist:item=1690783811&perks=2779035018,11551321#notes:PVP
+dimwishlist:item=1690783811&perks=2779035018,1890422124#notes:PVP
+dimwishlist:item=1690783811&perks=1359896290,1890422124#notes:PVP
+
+//The Fool's Remedy
+//  Feeding Frenzy, Subsistence
+//  Kill Clip, Quickdraw (PVP), Rangefinder (PVP)
+dimwishlist:item=65611680&perks=2779035018,1015611457
+dimwishlist:item=65611680&perks=1820235745,1015611457
+dimwishlist:item=65611680&perks=2779035018,706527188#notes:PVP
+dimwishlist:item=65611680&perks=2779035018,2846385770#notes:PVP
+
+//Multimach CCX
+//  Subsistence, Threat Detector
+//  Kill Clip, One For All
+dimwishlist:item=3717177717&perks=1820235745,4049631843
+dimwishlist:item=3717177717&perks=1820235745,1015611457
+dimwishlist:item=3717177717&perks=4071163871,4049631843
+dimwishlist:item=3717177717&perks=4071163871,1015611457
+
+//The Time Worn Spire
+//  Feeding Frenzy, Subsistence, Quickdraw (PVP), Moving Target (PVP)
+//  Rampage, Iron Grip
+dimwishlist:item=3593598010&perks=2779035018,3425386926
+dimwishlist:item=3593598010&perks=2779035018,11551321
+dimwishlist:item=3593598010&perks=1820235745,3425386926
+dimwishlist:item=3593598010&perks=1820235745,11551321
+dimwishlist:item=3593598010&perks=706527188,3425386926#notes:PVP
+dimwishlist:item=3593598010&perks=706527188,11551321#notes:PVP
+dimwishlist:item=3593598010&perks=588594999,3425386926#notes:PVP
+dimwishlist:item=3593598010&perks=588594999,11551321#notes:PVP
+
+
+/////////////////////////////////////////////////////////////////////
+//Last Wish
+/////////////////////////////////////////////////////////////////////
+
+//The Supremacy
+//  Outlaw, Snapshot Sights
+//  Triple Tap, Kill Clip, Rapid Hit
+dimwishlist:item=686951703&perks=1392496348,1968497646,1015611457,247725512#notes:Curated roll
+dimwishlist:item=686951703&perks=1168162263,3400784728
+dimwishlist:item=686951703&perks=1168162263,1015611457
+dimwishlist:item=686951703&perks=1168162263,247725512
+dimwishlist:item=686951703&perks=957782887,3400784728
+dimwishlist:item=686951703&perks=957782887,1015611457
+dimwishlist:item=686951703&perks=957782887,247725512
+
+//Chattering Bone
+//  Outlaw
+//  Rampage, High-Impact Reserves
+dimwishlist:item=568515759&perks=1168162263,3425386926
+dimwishlist:item=568515759&perks=1168162263,2213355989
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989#notes:Curated roll
+
+//Transfiguration
+//  Zen Moment, Rampage
+//  Kill Clip, Ambitious Assassin
+dimwishlist:item=3799980700&perks=1840239774,679225683,1168162263,3038247973#notes:Curated roll
+dimwishlist:item=3799980700&perks=2387244414,1015611457
+dimwishlist:item=3799980700&perks=2387244414,2010801679
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+dimwishlist:item=3799980700&perks=3425386926,2010801679
+
+//Age-Old Bond
+//  Zen Moment, Tap The Trigger
+//  Kill Clip, Dragonfly
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:Curated roll
+dimwishlist:item=601592879&perks=2387244414,2848615171
+dimwishlist:item=601592879&perks=2387244414,1015611457
+dimwishlist:item=601592879&perks=1890422124,1015611457
+dimwishlist:item=601592879&perks=1890422124,2848615171
+
+//Nation of Beasts
+//  Drop Mag
+//  Outlaw, If Drop Mag, then Opening Shot or Zen Moment
+//  Rampage, Kill Clip, Explosive Payload
+dimwishlist:item=654370424&perks=202670084,679225683,1168162263,2848615171#notes:Curated roll
+dimwishlist:item=654370424&perks=1168162263,3038247973
+dimwishlist:item=654370424&perks=1168162263,3425386926
+dimwishlist:item=654370424&perks=1168162263,1015611457
+dimwishlist:item=654370424&perks=4134353779,47981717,3038247973
+dimwishlist:item=654370424&perks=4134353779,47981717,3425386926
+dimwishlist:item=654370424&perks=4134353779,47981717,1015611457
+dimwishlist:item=654370424&perks=4134353779,2387244414,3038247973
+dimwishlist:item=654370424&perks=4134353779,2387244414,3425386926
+dimwishlist:item=654370424&perks=4134353779,2387244414,1015611457
+
+//Tyranny of Heaven
+//  Archer's Tempo
+//  Rampage, Explosive Head
+dimwishlist:item=2721249463&perks=201365942,3425386926
+dimwishlist:item=2721249463&perks=201365942,3365897133
+
+//Apex Predator
+//  Tracking Module
+//  Kill Clip, Auto-Loading Holster
+dimwishlist:item=2545083870&perks=3977735242,1015611457
+dimwishlist:item=2545083870&perks=3977735242,3300816228
+
+//Techeun Force
+//  Kill Clip
+//  Rampage, Backup Plan
+dimwishlist:item=4094657108&perks=3250034553,689005463,3300816228,1600092898#notes:Curated roll
+dimwishlist:item=4094657108&perks=1015611457,3425386926
+dimwishlist:item=4094657108&perks=1015611457,1600092898
+
+/////////////////////////////////////////////////////////////////////
+//Garden of Salvation
+/////////////////////////////////////////////////////////////////////
+
+//Omniscient Eye
+//  No great PVE rolls on this - better options elsewhere.
+//  PVP - Mulligan/No Distractions + Snapshot
+dimwishlist:item=3454326177&perks=3513791699,957782887#notes:PVP
+dimwishlist:item=3454326177&perks=2866798147,957782887#notes:PVP
+
+//Zealot's Reward
+//  Feeding Frenzy, Auto-Loading Holster
+//  Rampage, Backup Plan
+dimwishlist:item=2209003210&perks=2779035018,3425386926
+dimwishlist:item=2209003210&perks=2779035018,1600092898
+dimwishlist:item=2209003210&perks=3300816228,1600092898
+dimwishlist:item=2209003210&perks=3300816228,3425386926
+
+//Accrued Redemption
+//  Archer's Tempo
+//  Explosive Head, Rampage, Rapid Hit
+dimwishlist:item=4095896073&perks=201365942,3365897133
+dimwishlist:item=4095896073&perks=201365942,3425386926
+dimwishlist:item=4095896073&perks=201365942,247725512
+
+//Reckless Oracle
+//  Mulligan
+//  Swashbuckler, Demolitionist
+dimwishlist:item=3385326721&perks=3513791699,4082225868
+dimwishlist:item=3385326721&perks=3513791699,3523296417
+
+//Ancient Gospel
+//  Rapid Hit, Outlaw
+//  Kill Clip, Swashbuckler, Dragonfly, Rangefinder (PVP)
+dimwishlist:item=48643186&perks=247725512,1015611457
+dimwishlist:item=48643186&perks=247725512,2848615171
+dimwishlist:item=48643186&perks=247725512,4082225868
+dimwishlist:item=48643186&perks=1168162263,1015611457
+dimwishlist:item=48643186&perks=1168162263,2848615171
+dimwishlist:item=48643186&perks=1168162263,4082225868
+dimwishlist:item=48643186&perks=1168162263,2846385770#notes:PVP Sevy
+
+//Prophet of Doom
+//  Feeding Frenzy, Full Auto
+//  One-Two Punch, Rampage
+dimwishlist:item=4020742303&perks=2779035018,2679249093
+dimwishlist:item=4020742303&perks=2779035018,3425386926
+dimwishlist:item=4020742303&perks=2117683199,3425386926
+dimwishlist:item=4020742303&perks=2117683199,2679249093
+
+//Sacred Provenance
+//  Rapid Hit, Outlaw
+//  Kill Clip, Snapshot Sights (PVP)
+dimwishlist:item=2408405461&perks=247725512,1015611457
+dimwishlist:item=2408405461&perks=1168162263,1015611457
+dimwishlist:item=2408405461&perks=247725512,957782887#notes:PVP
+
+/////////////////////////////////////////////////////////////////////
+//Deep Stone Crypt
+/////////////////////////////////////////////////////////////////////
+
+//Heritage
+//  Reconstruction, Auto-Loading Holster, Slideshot (PVP)
+//  Thresh, Recombination, Snapshot Sights (PVP)
+dimwishlist:item=4248569242&perks=1523832109,469285294
+dimwishlist:item=4248569242&perks=1523832109,2726471870
+dimwishlist:item=4248569242&perks=3300816228,2726471870
+dimwishlist:item=4248569242&perks=3300816228,469285294
+dimwishlist:item=4248569242&perks=3161816588,957782887#notes:PVP Sevy
+
+//Succession
+//  Reconstruction, Moving Target(PVP), No Distractions (PVP)
+//  Vorpal Weapon, Recombination, Snapshot Sight (PVP)
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,469285294
+dimwishlist:item=2990047042&perks=588594999,957782887#notes:PVP Sevy
+dimwishlist:item=2990047042&perks=2866798147,957782887#notes:PVP Sevy
+
+//Posterity
+//  Rapid Hit, Feeding Frenzy, Reconstruction, Fourth Time's the Charm
+//  Demolitionist, Rampage
+dimwishlist:item=3281285075&perks=247725512,3523296417
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=247725512,3201496230
+dimwishlist:item=3281285075&perks=247725512,4049631843
+dimwishlist:item=3281285075&perks=2779035018,3523296417
+dimwishlist:item=3281285075&perks=2779035018,3425386926
+dimwishlist:item=3281285075&perks=2779035018,3201496230
+dimwishlist:item=3281285075&perks=2779035018,4049631843
+dimwishlist:item=3281285075&perks=1354429876,3523296417
+dimwishlist:item=3281285075&perks=1354429876,3425386926
+dimwishlist:item=3281285075&perks=1354429876,3201496230
+dimwishlist:item=3281285075&perks=1354429876,4049631843
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+dimwishlist:item=3281285075&perks=1523832109,3201496230
+dimwishlist:item=3281285075&perks=1523832109,4049631843
+
+//Trustee
+//  Reconstruction, Outlaw
+//  Wellspring, Redirection, High-Impact Reserves
+dimwishlist:item=1392919471&perks=1523832109,3201496230
+dimwishlist:item=1392919471&perks=1523832109,3592538738
+dimwishlist:item=1392919471&perks=1523832109,2213355989
+dimwishlist:item=1392919471&perks=1168162263,3201496230
+dimwishlist:item=1392919471&perks=1168162263,3592538738
+dimwishlist:item=1392919471&perks=1168162263,2213355989
+
+//Bequest
+dimwishlist:item=3366545721&perks=1749209109,1685431615
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+dimwishlist:item=3366545721&perks=2726471870,3708227201
+dimwishlist:item=3366545721&perks=2726471870,1685431615
+
+//Commemoration
+//  Reconstruction, Feeding Frenzy
+//  Rampage
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=2779035018,3425386926
+
+/////////////////////////////////////////////////////////////////////
+//Vault of Glass
+/////////////////////////////////////////////////////////////////////
+
+//Vision of Confluence
+//  Wellspring, Rewind Rounds, Zen Moment, Tunnel Vision (PVP)
+//  Firefly, Kill Clip, Frenzy
+dimwishlist:item=3186018373&perks=3592538738,3824105627
+dimwishlist:item=3186018373&perks=3592538738,1015611457
+dimwishlist:item=3186018373&perks=3592538738,4104185692
+dimwishlist:item=3186018373&perks=3418782618,3824105627
+//Not including Rewind Rounds/Kill Clip since they don't synergize
+dimwishlist:item=3186018373&perks=3418782618,4104185692
+dimwishlist:item=3186018373&perks=2387244414,3824105627
+dimwishlist:item=3186018373&perks=2387244414,1015611457
+dimwishlist:item=3186018373&perks=2387244414,4104185692
+dimwishlist:item=3186018373&perks=2946784966,3824105627
+dimwishlist:item=3186018373&perks=2946784966,1015611457
+//Not including Frenzy in PVP
+
+
+//Vision of Confluence (Timelost)
+//  Wellspring, Rewind Rounds, Zen Moment, Tunnel Vision (PVP)
+//  Firefly, Kill Clip, Frenzy
+dimwishlist:item=690668916&perks=3592538738,3824105627
+dimwishlist:item=690668916&perks=3592538738,1015611457
+dimwishlist:item=690668916&perks=3592538738,4104185692
+dimwishlist:item=690668916&perks=3418782618,3824105627
+//Not including Rewind Rounds/Kill Clip since they don't synergize
+dimwishlist:item=690668916&perks=3418782618,4104185692
+dimwishlist:item=690668916&perks=2387244414,3824105627
+dimwishlist:item=690668916&perks=2387244414,1015611457
+dimwishlist:item=690668916&perks=2387244414,4104185692
+dimwishlist:item=690668916&perks=2946784966,3824105627
+dimwishlist:item=690668916&perks=2946784966,1015611457
+//Not including Frenzy in PVP
+
+//Praedyth's Revenge
+//  Rewind Rounds, Feeding Frenzy, No Distractions (PVP), Moving Target (PVP)
+//  Frenzy, Firefly, Opening Shot (PVP)
+dimwishlist:item=3653573172&perks=3418782618,4104185692
+dimwishlist:item=3653573172&perks=3418782618,3824105627
+dimwishlist:item=3653573172&perks=3418782618,2213355989
+dimwishlist:item=3653573172&perks=2779035018,4104185692
+dimwishlist:item=3653573172&perks=2779035018,3824105627
+dimwishlist:item=3653573172&perks=2779035018,2213355989
+dimwishlist:item=3653573172&perks=2866798147,47981717#notes:PVP
+dimwishlist:item=3653573172&perks=588594999,47981717#notes:PVP
+
+//Praedyth's Revenge (Timelost)
+//  Rewind Rounds, Feeding Frenzy, No Distractions (PVP), Moving Target (PVP)
+//  Frenzy, Firefly, High-Impact Reserves, Opening Shot (PVP)
+dimwishlist:item=1987769101&perks=3418782618,4104185692
+dimwishlist:item=1987769101&perks=3418782618,3824105627
+dimwishlist:item=1987769101&perks=3418782618,2213355989
+dimwishlist:item=1987769101&perks=2779035018,4104185692
+dimwishlist:item=1987769101&perks=2779035018,3824105627
+dimwishlist:item=1987769101&perks=2779035018,2213355989
+dimwishlist:item=1987769101&perks=2866798147,47981717#notes:PVP
+dimwishlist:item=1987769101&perks=588594999,47981717#notes:PVP
+
+//Found Verdict
+//  Rewind Rounds, Auto-Loading Holster
+//  Demolitionist, One-Two Punch, Frenzy, Vorpal Weapon
+dimwishlist:item=3197270240&perks=3418782618,3523296417
+dimwishlist:item=3197270240&perks=3418782618,2679249093
+dimwishlist:item=3197270240&perks=3418782618,4104185692
+dimwishlist:item=3197270240&perks=3418782618,1546637391
+dimwishlist:item=3197270240&perks=3300816228,3523296417
+dimwishlist:item=3197270240&perks=3300816228,2679249093
+dimwishlist:item=3197270240&perks=3300816228,4104185692
+dimwishlist:item=3197270240&perks=3300816228,1546637391
+
+//Found Verdict (Timelost)
+//  Rewind Rounds, Auto-Loading Holster
+//  Demolitionist, One-Two Punch, Frenzy, Vorpal Weapon
+dimwishlist:item=631439337&perks=3418782618,3523296417
+dimwishlist:item=631439337&perks=3418782618,2679249093
+dimwishlist:item=631439337&perks=3418782618,4104185692
+dimwishlist:item=631439337&perks=3418782618,1546637391
+dimwishlist:item=631439337&perks=3300816228,3523296417
+dimwishlist:item=631439337&perks=3300816228,2679249093
+dimwishlist:item=631439337&perks=3300816228,4104185692
+dimwishlist:item=631439337&perks=3300816228,1546637391
+
+//Hezen Vengeance
+//  Tracking Module, Auto-Loading Holster, Impulse Amplifier, Overflow
+//  Vorpal Weapon, Lasting Impression
+dimwishlist:item=4050645223&perks=3977735242,1546637391#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=4050645223&perks=3300816228,1546637391#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=4050645223&perks=951095735,1546637391#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=4050645223&perks=3643424744,1546637391#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=4050645223&perks=3977735242,3927722942#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=4050645223&perks=3300816228,3927722942#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=4050645223&perks=951095735,3927722942#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=4050645223&perks=3643424744,3927722942#notes:Overflow/Lasting Impression is the highest DPS roll.
+
+//Hezen Vengeance (Timelost)
+//  Tracking Module, Auto-Loading Holster, Impulse Amplifier, Overflow
+//  Vorpal Weapon, Lasting Impression
+dimwishlist:item=1921159786&perks=3977735242,1546637391#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=1921159786&perks=3300816228,1546637391#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=1921159786&perks=951095735,1546637391#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=1921159786&perks=3643424744,1546637391#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=1921159786&perks=3977735242,3927722942#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=1921159786&perks=3300816228,3927722942#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=1921159786&perks=951095735,3927722942#notes:Overflow/Lasting Impression is the highest DPS roll.
+dimwishlist:item=1921159786&perks=3643424744,3927722942#notes:Overflow/Lasting Impression is the highest DPS roll.
+
+//Corrective Measure
+//  Feeding Frenzy, Rewind Rounds, Subsistence
+//  One For All, Firefly, High-Impact Reserves
+dimwishlist:item=471518543&perks=2779035018,4049631843
+dimwishlist:item=471518543&perks=2779035018,3824105627
+dimwishlist:item=471518543&perks=2779035018,2213355989
+dimwishlist:item=471518543&perks=3418782618,4049631843
+dimwishlist:item=471518543&perks=3418782618,3824105627
+dimwishlist:item=471518543&perks=3418782618,2213355989
+dimwishlist:item=471518543&perks=1820235745,4049631843
+dimwishlist:item=471518543&perks=1820235745,3824105627
+dimwishlist:item=471518543&perks=1820235745,2213355989
+
+//Corrective Measure (Timelost)
+//  Feeding Frenzy, Rewind Rounds, Subsistence
+//  One For All, Firefly
+dimwishlist:item=3796510434&perks=2779035018,4049631843
+dimwishlist:item=3796510434&perks=2779035018,3824105627
+dimwishlist:item=3796510434&perks=2779035018,2213355989
+dimwishlist:item=3796510434&perks=3418782618,4049631843
+dimwishlist:item=3796510434&perks=3418782618,3824105627
+dimwishlist:item=3796510434&perks=3418782618,2213355989
+dimwishlist:item=3796510434&perks=1820235745,4049631843
+dimwishlist:item=3796510434&perks=1820235745,3824105627
+dimwishlist:item=3796510434&perks=1820235745,2213355989
