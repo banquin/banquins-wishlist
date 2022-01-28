@@ -136,14 +136,6 @@ dimwishlist:item=2782325301&perks=1749209109,354401740
 //      SEASONAL CONTENT
 //
 
-//Gridskipper
-//  Heating Up, Moving Target (PVP)
-//  Frenzy, Multikill Clip, Snapshot (PVP)
-dimwishlist:item=1621558458&perks=1570042021,4104185692
-dimwishlist:item=1621558458&perks=1570042021,2458213969
-dimwishlist:item=1621558458&perks=1570042021,957782887#notes:PVP
-dimwishlist:item=1621558458&perks=588594999,957782887#notes:PVP
-
 //Sojourner's Tale
 //  Auto-Loading Holster, Threat Detector, Quickdraw (PVP)
 //  Frenzy, Opening Shot (PVP)
@@ -218,22 +210,6 @@ dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
 dimwishlist:item=4255586669&perks=3301904089,2010801679,4049631843
 dimwishlist:item=4255586669&perks=3301904089,2010801679,3523296417
 dimwishlist:item=4255586669&perks=3301904089,2010801679,1546637391
-
-//Borrowed Time
-//  Heating Up, Feeding Frenzy, Threat Detector
-//  Frenzy, Wellspring, Demolitionist, Swashbuckler, Rampage, Surrounded
-dimwishlist:item=875848769&perks=1570042021,4104185692
-dimwishlist:item=875848769&perks=1570042021,3592538738
-dimwishlist:item=875848769&perks=1570042021,3523296417
-dimwishlist:item=875848769&perks=1570042021,4082225868
-dimwishlist:item=875848769&perks=1570042021,3425386926
-dimwishlist:item=875848769&perks=2779035018,4104185692
-dimwishlist:item=875848769&perks=2779035018,3592538738
-dimwishlist:item=875848769&perks=2779035018,3523296417
-dimwishlist:item=875848769&perks=2779035018,4082225868
-dimwishlist:item=875848769&perks=2779035018,3425386926
-//Threat Detector and Surrounded only paired with each other.
-dimwishlist:item=875848769&perks=4071163871,3708227201
 
 //
 //      WORLD LOOT
@@ -386,10 +362,6 @@ dimwishlist:item=208088207&perks=2779035018,2726471870
 //Heretic
 dimwishlist:item=3067821200&perks=951095735,3927722942
 dimwishlist:item=3067821200&perks=951095735,1275731761
-
-//Cartesian Coordinate
-dimwishlist:item=2481881293&perks=2779035018,4082225868
-dimwishlist:item=2481881293&perks=2779035018,2213355989
 
 //Eternal Blazon
 dimwishlist:item=3514096004&perks=247725512,1015611457
