@@ -912,10 +912,6 @@ dimwishlist:item=1179141605
 //Seasons 1-9
 /////////////////////////////////////////////////////////////////////
 
-//Main Ingredient
-dimwishlist:item=253196586&perks=3300816228,3425386926
-dimwishlist:item=253196586&perks=3300816228,1600092898
-
 //Toil and Trouble
 dimwishlist:item=2957367743&perks=2117683199,3425386926
 dimwishlist:item=2957367743&perks=2117683199,3300816228
