@@ -959,21 +959,6 @@ dimwishlist:item=3089417788
 //Events
 /////////////////////////////////////////////////////////////////////
 
-//Cold Front
-//  Subsistence
-//  Rampage
-dimwishlist:item=1506719573&perks=1820235745,3425386926
-
-//Glacioclasm
-//  Particle Repeater (PVP)
-//  Surplus, Under Pressure (PVP)
-//  Swashbuckler, High-Impact Reserves (PVP)
-dimwishlist:item=1030895163&perks=3436462433,4082225868
-dimwishlist:item=1030895163&perks=3868766766,1645158859,2213355989#notes:PVP
-
-//Avalanche
-dimwishlist:item=66875353&perks=3300816228,4082225868
-
 //Braytech Werewolf
 dimwishlist:item=528834068&perks=2387244414,2458213969
 
