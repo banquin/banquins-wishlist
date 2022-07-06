@@ -1,5 +1,5 @@
 title:Brendan's Wishlist
-description:A wishlist that only considers the last two perks (on most weapons). Last updated 5/25/22 with S17 weapons.
+description:A wishlist that only considers the last two perks (on most weapons). Last updated 7/6/22 with the rest of the S17 weapons, including Duality. Does not include Without Remorse.
 
 // Annual Skate ()
 dimwishlist:item=6857689&perks=1168162263,2848615171
