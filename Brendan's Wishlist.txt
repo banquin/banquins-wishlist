@@ -1,5 +1,5 @@
 title:Brendan's Wishlist
-description:A wishlist that only considers the last two perks (on most weapons). Last updated 7/6/22 with the rest of the S17 weapons, including Duality. Missing Without Remorse.
+description:A wishlist that only considers the last two perks (on most weapons). Last updated 8/28/22 with most of the S18 weapons. Excludes King's Fall weapons.
 
 // The Inquisitor (Adept) (pve)
 //notes: tags:pve
