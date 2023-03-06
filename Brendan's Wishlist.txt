@@ -1,5 +1,20 @@
 title:Brendan's Wishlist
-description:A wishlist that only considers the last two perks (on most weapons). Last updated 3/5/23 with Lightfall and Season 20 weapons.
+description:A wishlist that only considers the last two perks (on most weapons). Last updated 3/6/23 with Lightfall and Season 20 weapons.
+
+// The Wizened Rebuke (pve)
+//notes: tags:pve
+dimwishlist:item=2290416&perks=3619207468,2173046394
+
+
+// The Wizened Rebuke (pvp)
+//notes: tags:pvp
+dimwishlist:item=2290416&perks=1645158859,2213355989
+dimwishlist:item=2290416&perks=1645158859,1600092898
+dimwishlist:item=2290416&perks=1645158859,2451262963
+dimwishlist:item=2290416&perks=11551321,2213355989
+dimwishlist:item=2290416&perks=11551321,1600092898
+dimwishlist:item=2290416&perks=11551321,2451262963
+
 
 // The Inquisitor (Adept) (pve)
 //notes: tags:pve
@@ -137,6 +152,16 @@ dimwishlist:item=108221785&perks=3436462433,1546637391
 //notes: tags:pvp
 dimwishlist:item=108221785&perks=706527188,591790007
 dimwishlist:item=108221785&perks=699525795,591790007
+
+
+// Whistler's Whim (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=161675590&perks=247725512,201365942
+dimwishlist:item=161675590&perks=247725512,1015611457
+dimwishlist:item=161675590&perks=247725512,2652708987
+dimwishlist:item=161675590&perks=2946784966,201365942
+dimwishlist:item=161675590&perks=2946784966,1015611457
+dimwishlist:item=161675590&perks=2946784966,2652708987
 
 
 // Buzzard (pve)
@@ -3804,6 +3829,19 @@ dimwishlist:item=541188001&perks=4267945040,4104185692
 dimwishlist:item=541188001&perks=4267945040,11612903
 
 
+// Exalted Truth (pve)
+//notes: tags:pve
+dimwishlist:item=548809020&perks=1168162263,3425386926
+dimwishlist:item=548809020&perks=1168162263,776531651
+dimwishlist:item=548809020&perks=1168162263,2458213969
+dimwishlist:item=548809020&perks=2846385770,3425386926
+dimwishlist:item=548809020&perks=2846385770,776531651
+dimwishlist:item=548809020&perks=2846385770,2458213969
+dimwishlist:item=548809020&perks=2450788523,3425386926
+dimwishlist:item=548809020&perks=2450788523,776531651
+dimwishlist:item=548809020&perks=2450788523,2458213969
+
+
 // Retraced Path (pve)
 //notes: tags:pve
 dimwishlist:item=548958835&perks=1820235745,4049631843
@@ -4483,6 +4521,19 @@ dimwishlist:item=882778888&perks=588594999,699525795
 dimwishlist:item=882778888&perks=588594999,47981717
 
 
+// Unwavering Duty (pve)
+//notes: tags:pve
+dimwishlist:item=906840740&perks=3300816228,1771339417
+dimwishlist:item=906840740&perks=3300816228,557221067
+dimwishlist:item=906840740&perks=3300816228,4293542123
+dimwishlist:item=906840740&perks=1820235745,1771339417
+dimwishlist:item=906840740&perks=1820235745,557221067
+dimwishlist:item=906840740&perks=1820235745,4293542123
+dimwishlist:item=906840740&perks=1359896290,1771339417
+dimwishlist:item=906840740&perks=1359896290,557221067
+dimwishlist:item=906840740&perks=1359896290,4293542123
+
+
 // Mindbender's Ambition (Adept) (pve)
 //notes: tags:pve
 dimwishlist:item=912150785&perks=691659142,4082225868
@@ -4634,6 +4685,12 @@ dimwishlist:item=1019000888&perks=247725512,124408337
 // Perses-D (pve)
 //notes: tags:pve
 dimwishlist:item=1019000888&perks=1583705720,4049631843
+
+
+// The Hero's Burden (pve)
+//notes: tags:pve
+dimwishlist:item=1028124540&perks=2779035018,2048641572
+dimwishlist:item=1028124540&perks=2779035018,1015611457
 
 
 // The Comedian ()
@@ -6669,6 +6726,19 @@ dimwishlist:item=1687353095&perks=1428297954,4049631843
 dimwishlist:item=1687353095&perks=1428297954,3425386926
 
 
+// Exalted Truth (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=1705843397&perks=1168162263,3425386926
+dimwishlist:item=1705843397&perks=1168162263,776531651
+dimwishlist:item=1705843397&perks=1168162263,2458213969
+dimwishlist:item=1705843397&perks=2846385770,3425386926
+dimwishlist:item=1705843397&perks=2846385770,776531651
+dimwishlist:item=1705843397&perks=2846385770,2458213969
+dimwishlist:item=1705843397&perks=2450788523,3425386926
+dimwishlist:item=1705843397&perks=2450788523,776531651
+dimwishlist:item=1705843397&perks=2450788523,2458213969
+
+
 // Royal Executioner (pve)
 //notes: tags:pve
 dimwishlist:item=1720503118&perks=968510818,4293542123
@@ -8656,6 +8726,30 @@ dimwishlist:item=2221264583&perks=2717805783,699525795
 dimwishlist:item=2221264583&perks=2717805783,3719974635
 
 
+// Roar of the Bear (pve)
+//notes: tags:pve
+dimwishlist:item=2231910050&perks=3523296417,3300816228
+
+
+// Roar of the Bear (pve)
+//notes: tags:pve
+dimwishlist:item=2231910050&perks=3523296417,3927722942
+dimwishlist:item=2231910050&perks=3523296417,1546637391
+dimwishlist:item=2231910050&perks=3523296417,2396489472
+dimwishlist:item=2231910050&perks=951095735,3927722942
+dimwishlist:item=2231910050&perks=951095735,1546637391
+dimwishlist:item=2231910050&perks=951095735,2396489472
+dimwishlist:item=2231910050&perks=2869569095,3927722942
+dimwishlist:item=2231910050&perks=2869569095,1546637391
+dimwishlist:item=2231910050&perks=2869569095,2396489472
+dimwishlist:item=2231910050&perks=2010801679,3927722942
+dimwishlist:item=2231910050&perks=2010801679,1546637391
+dimwishlist:item=2231910050&perks=2010801679,2396489472
+dimwishlist:item=2231910050&perks=3977735242,3927722942
+dimwishlist:item=2231910050&perks=3977735242,1546637391
+dimwishlist:item=2231910050&perks=3977735242,2396489472
+
+
 // Fugue-55 (pve)
 //notes: tags:pve
 dimwishlist:item=2233545123&perks=1354429876,1771339417
@@ -10205,6 +10299,14 @@ dimwishlist:item=2856514843&perks=1748774930,4104185692
 dimwishlist:item=2856514843&perks=1748774930,3007133316
 
 
+// Hung Jury SR4 (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=2883684343&perks=247725512,3891536761
+dimwishlist:item=2883684343&perks=247725512,3824105627
+dimwishlist:item=2883684343&perks=1820235745,3891536761
+dimwishlist:item=2883684343&perks=1820235745,3824105627
+
+
 // Cataclysmic (Adept) (pve)
 //notes: tags:pve
 dimwishlist:item=2886339027&perks=1354429876,2284787283
@@ -10543,6 +10645,16 @@ dimwishlist:item=3164743584&perks=2866798147,47981717
 dimwishlist:item=3164743584&perks=2866798147,957782887
 dimwishlist:item=3164743584&perks=2946784966,47981717
 dimwishlist:item=3164743584&perks=2946784966,957782887
+
+
+// Whistler's Whim (pve)
+//notes: tags:pve
+dimwishlist:item=3165143747&perks=247725512,201365942
+dimwishlist:item=3165143747&perks=247725512,1015611457
+dimwishlist:item=3165143747&perks=247725512,2652708987
+dimwishlist:item=3165143747&perks=2946784966,201365942
+dimwishlist:item=3165143747&perks=2946784966,1015611457
+dimwishlist:item=3165143747&perks=2946784966,2652708987
 
 
 // Memory Interdict (pve)
@@ -10981,6 +11093,19 @@ dimwishlist:item=3428521585&perks=1409206216,4049631843
 dimwishlist:item=3428521585&perks=1409206216,859780267
 
 
+// Unwavering Duty (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=3444632029&perks=3300816228,1771339417
+dimwishlist:item=3444632029&perks=3300816228,557221067
+dimwishlist:item=3444632029&perks=3300816228,4293542123
+dimwishlist:item=3444632029&perks=1820235745,1771339417
+dimwishlist:item=3444632029&perks=1820235745,557221067
+dimwishlist:item=3444632029&perks=1820235745,4293542123
+dimwishlist:item=3444632029&perks=1359896290,1771339417
+dimwishlist:item=3444632029&perks=1359896290,557221067
+dimwishlist:item=3444632029&perks=1359896290,4293542123
+
+
 // Wolftone Draw ()
 dimwishlist:item=3472875143&perks=201365942,4104185692
 dimwishlist:item=3472875143&perks=201365942,3673922083
@@ -11263,6 +11388,14 @@ dimwishlist:item=3813153080&perks=1570042021,2458213969
 dimwishlist:item=3813153080&perks=2450788523,591790007
 dimwishlist:item=3813153080&perks=1570042021,591790007
 dimwishlist:item=3813153080&perks=2946784966,591790007
+
+
+// Hung Jury SR4 (pve)
+//notes: tags:pve
+dimwishlist:item=3832743906&perks=247725512,3891536761
+dimwishlist:item=3832743906&perks=247725512,3824105627
+dimwishlist:item=3832743906&perks=1820235745,3891536761
+dimwishlist:item=3832743906&perks=1820235745,3824105627
 
 
 // Sola's Scar (Adept) (pve)
